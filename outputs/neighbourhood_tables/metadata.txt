@@ -1,0 +1,17 @@
+DESCRIPTION OF FOLDER CONTENTS
+
+This folder contains the current final outputs of the travel analysis, and a set of older results for comparison. The new results are based on a smaller set of family physiciasn based on revisions from ONS and community expertise.
+
+The results consist of two tables, one for diving and one for walking, that show neighbourhood-level population-weighted average travel distances and times to family physicians. 
+
+Each table contains two sets of results:
+  * Those for the general population traveling to any family physician, and 
+  * Those for French-only speakers to French-speaking family physicians.
+
+Current results:
+  * ons_table_auto_rurality.csv
+  * ons_table_walk_rurality.csv
+
+Old results for comparison are in the /archive/ folder:
+  * ons_table_auto_rurality_old.csv
+  * ons_table_walk_rurality_old.csv

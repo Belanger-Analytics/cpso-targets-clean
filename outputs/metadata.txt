@@ -1,0 +1,15 @@
+This folder contains all the outputs of the Access to Francophone Healthcare in Ottawa study.
+
+Results are generated automatically by the targets workflow in R, and are divided into folders by type:
+
+ - /neighbourhoood_tables/
+   Neighbourhood-level data tables showing average travel distances and times.
+
+- /od_matricies/
+  DB-level results showing travel distances and times from each DB to each physician as calculated by Valhalla. NOTE! These tables are hundreds of megabytes and so are not synced on GitHub.
+
+- /pub_figures/
+  Figures intended for publication and related items.
+
+- /pub_tables/
+  Tables intended for publication. Note that these are rougher and will require some manual cleanup.

@@ -1,0 +1,2745 @@
+DAUID,TOPIC_THEME,TEXT_ID,TEXT_NAME_NOM,T_DATA_DONNEE,M_DATA_DONNEE,F_DATA_DONNEE
+35060001,Language,7002,  French only,2.1,4.3,2.1
+35060001,Language,8006,Official language minority (percentage),44.2,42.6,45.8
+35060002,Language,7002,  French only,2.4,1.6,1.6
+35060002,Language,8006,Official language minority (percentage),43.5,41.3,45.2
+35060003,Language,7002,  French only,2.4,1.2,3.5
+35060003,Language,8006,Official language minority (percentage),44.6,42.7,46.5
+35060005,Language,7002,  French only,2.8,2.3,2.2
+35060005,Language,8006,Official language minority (percentage),45.8,44.8,44.4
+35060006,Language,7002,  French only,2.9,1.6,4.3
+35060006,Language,8006,Official language minority (percentage),45,44.3,45.7
+35060007,Language,7002,  French only,2.9,3.4,2.4
+35060007,Language,8006,Official language minority (percentage),42.8,41.4,44.7
+35060010,Language,7002,  French only,1.6,3.2,0
+35060010,Language,8006,Official language minority (percentage),37.1,35.5,38.7
+35060011,Language,7002,  French only,0.8,1.6,0
+35060011,Language,8006,Official language minority (percentage),36.4,35.5,38.6
+35060012,Language,7002,  French only,2.6,1.7,3.4
+35060012,Language,8006,Official language minority (percentage),34.2,34.5,32.8
+35060014,Language,7002,  French only,2.3,1.8,1.3
+35060014,Language,8006,Official language minority (percentage),36.6,32.1,40
+35060015,Language,7002,  French only,2.9,3.8,3.9
+35060015,Language,8006,Official language minority (percentage),34,36.5,33.3
+35060016,Language,7002,  French only,2.5,2.4,2.6
+35060016,Language,8006,Official language minority (percentage),36.3,36.6,38.5
+35060017,Language,7002,  French only,2,0,2
+35060017,Language,8006,Official language minority (percentage),33,28.3,35.3
+35060018,Language,7002,  French only,2.4,0,2.2
+35060018,Language,8006,Official language minority (percentage),37.6,40,37.8
+35060019,Language,7002,  French only,1.8,1.8,1.9
+35060019,Language,8006,Official language minority (percentage),29.7,30.4,31.5
+35060020,Language,7002,  French only,2.2,2.2,2.1
+35060020,Language,8006,Official language minority (percentage),31.2,27.7,31.9
+35060021,Language,7002,  French only,2.5,1.8,1.5
+35060021,Language,8006,Official language minority (percentage),29.3,31.6,27.3
+35060022,Language,7002,  French only,1.7,1.8,1.7
+35060022,Language,8006,Official language minority (percentage),27,27.3,28.3
+35060023,Language,7002,  French only,2.2,2.1,2.1
+35060023,Language,8006,Official language minority (percentage),35.5,36.2,31.9
+35060024,Language,7002,  French only,0,0,0
+35060024,Language,8006,Official language minority (percentage),27.3,28.6,25.9
+35060025,Language,7002,  French only,1.8,2.4,2.4
+35060025,Language,8006,Official language minority (percentage),33.5,32.5,35.3
+35060026,Language,7002,  French only,3.4,0,3.6
+35060026,Language,8006,Official language minority (percentage),27.6,26.7,28.6
+35060027,Language,7002,  French only,1.9,1.3,2.5
+35060027,Language,8006,Official language minority (percentage),24.5,23.4,25.3
+35060028,Language,7002,  French only,1.5,3,0
+35060028,Language,8006,Official language minority (percentage),28.4,29.4,27.3
+35060029,Language,7002,  French only,2.3,1.8,2.8
+35060029,Language,8006,Official language minority (percentage),30.3,29.7,31.3
+35060030,Language,7002,  French only,1.6,3.2,3.2
+35060030,Language,8006,Official language minority (percentage),27,25.8,29
+35060031,Language,7002,  French only,1.6,1.6,1.6
+35060031,Language,8006,Official language minority (percentage),33.1,31.7,32.3
+35060032,Language,7002,  French only,3.3,2.7,2.5
+35060032,Language,8006,Official language minority (percentage),29.2,27,28.8
+35060033,Language,7002,  French only,3.6,2.6,4.5
+35060033,Language,8006,Official language minority (percentage),25.6,23.1,29.5
+35060034,Language,7002,  French only,2.5,2.6,4.8
+35060034,Language,8006,Official language minority (percentage),27.5,28.9,29.3
+35060035,Language,7002,  French only,3.4,4.4,2.3
+35060035,Language,8006,Official language minority (percentage),34.5,35.6,33.3
+35060036,Language,7002,  French only,1.8,1.8,1.9
+35060036,Language,8006,Official language minority (percentage),32.4,32.1,32.7
+35060037,Language,7002,  French only,1,1.9,2
+35060037,Language,8006,Official language minority (percentage),27.5,26.4,28
+35060038,Language,7002,  French only,1.2,0,2.6
+35060038,Language,8006,Official language minority (percentage),31.7,32.6,30.8
+35060039,Language,7002,  French only,1.3,1.4,2.5
+35060039,Language,8006,Official language minority (percentage),32.9,31.9,33.8
+35060043,Language,7002,  French only,1.8,2.4,2.5
+35060043,Language,8006,Official language minority (percentage),24.4,25.6,23.8
+35060044,Language,7002,  French only,0,0,0
+35060044,Language,8006,Official language minority (percentage),23.1,22.5,23.7
+35060045,Language,7002,  French only,2.7,1.8,1.8
+35060045,Language,8006,Official language minority (percentage),33.3,34.5,34.5
+35060047,Language,7002,  French only,0,0,0
+35060047,Language,8006,Official language minority (percentage),30,38.1,25
+35060048,Language,7002,  French only,5.9,5.7,3
+35060048,Language,8006,Official language minority (percentage),36.8,37.1,33.3
+35060049,Language,7002,  French only,1.1,0,0
+35060049,Language,8006,Official language minority (percentage),24.7,26.2,25.5
+35060050,Language,7002,  French only,0,0,0
+35060050,Language,8006,Official language minority (percentage),29.8,28.6,34.5
+35060051,Language,7002,  French only,2.9,4.3,2.9
+35060051,Language,8006,Official language minority (percentage),34.1,33.8,33.8
+35060052,Language,7002,  French only,3.6,1.7,6.3
+35060052,Language,8006,Official language minority (percentage),45.3,36.2,51.3
+35060053,Language,7002,  French only,4.1,4.1,4.1
+35060053,Language,8006,Official language minority (percentage),31.1,32.9,29.7
+35060054,Language,7002,  French only,1.8,1.7,1.8
+35060054,Language,8006,Official language minority (percentage),31.9,31.6,32.7
+35060055,Language,7002,  French only,1.2,0,0
+35060055,Language,8006,Official language minority (percentage),40,35,42.2
+35060056,Language,7002,  French only,1.6,0,3.2
+35060056,Language,8006,Official language minority (percentage),36.5,32.3,37.5
+35060057,Language,7002,  French only,1.7,1.8,1.7
+35060057,Language,8006,Official language minority (percentage),36.5,36.8,37.9
+35060058,Language,7002,  French only,2.9,2.9,2.8
+35060058,Language,8006,Official language minority (percentage),25.4,25.7,22.2
+35060059,Language,7002,  French only,2,2,2
+35060059,Language,8006,Official language minority (percentage),29.6,30.6,30.6
+35060061,Language,7002,  French only,3.4,2.3,2.2
+35060061,Language,8006,Official language minority (percentage),30,26.7,33.3
+35060062,Language,7002,  French only,1.8,0,1.7
+35060062,Language,8006,Official language minority (percentage),31.5,30.8,32.2
+35060064,Language,7002,  French only,1.2,2.5,2.4
+35060064,Language,8006,Official language minority (percentage),32.9,35,31
+35060065,Language,7002,  French only,3.3,3.6,3.1
+35060065,Language,8006,Official language minority (percentage),39.3,42.9,39.4
+35060066,Language,7002,  French only,0,0,0
+35060066,Language,8006,Official language minority (percentage),37.7,39.3,39.4
+35060067,Language,7002,  French only,3.7,3.4,4
+35060067,Language,8006,Official language minority (percentage),45.3,46.4,44
+35060069,Language,7002,  French only,2.1,0,4.3
+35060069,Language,8006,Official language minority (percentage),30.7,28.6,33.3
+35060070,Language,7002,  French only,1.5,1.5,1.5
+35060070,Language,8006,Official language minority (percentage),36.8,34.8,38.8
+35060071,Language,7002,  French only,3.2,1.6,4.8
+35060071,Language,8006,Official language minority (percentage),38.1,39.1,38.1
+35060072,Language,7002,  French only,1.6,3.4,3
+35060072,Language,8006,Official language minority (percentage),29,28.6,30.3
+35060073,Language,7002,  French only,4.6,3,6.3
+35060073,Language,8006,Official language minority (percentage),33.8,36.4,33.3
+35060074,Language,7002,  French only,2.1,4.3,2
+35060074,Language,8006,Official language minority (percentage),29.9,28.3,32
+35060075,Language,7002,  French only,2.3,1.6,2.9
+35060075,Language,8006,Official language minority (percentage),36.6,35.5,37.7
+35060076,Language,7002,  French only,2.5,2.9,4.5
+35060076,Language,8006,Official language minority (percentage),29.1,22.2,32.6
+35060078,Language,7002,  French only,3.2,4.3,2.1
+35060078,Language,8006,Official language minority (percentage),31.9,30.4,35.4
+35060079,Language,7002,  French only,4.4,5.5,5.1
+35060079,Language,8006,Official language minority (percentage),25.7,25.5,23.7
+35060080,Language,7002,  French only,2.4,2.4,2.3
+35060080,Language,8006,Official language minority (percentage),34.5,34.1,34.9
+35060081,Language,7002,  French only,3.1,2.3,3.7
+35060081,Language,8006,Official language minority (percentage),32,28.6,34
+35060082,Language,7002,  French only,1.8,0,1.6
+35060082,Language,8006,Official language minority (percentage),27.4,25.5,30.6
+35060083,Language,7002,  French only,4.6,3,5.2
+35060083,Language,8006,Official language minority (percentage),31.8,31,32.8
+35060089,Language,7002,  French only,3.1,4,2.2
+35060089,Language,8006,Official language minority (percentage),30.9,28,34.8
+35060090,Language,7002,  French only,1.8,0,1.8
+35060090,Language,8006,Official language minority (percentage),30.3,25.5,34.5
+35060091,Language,7002,  French only,1.4,3,0
+35060091,Language,8006,Official language minority (percentage),25,24.2,23.1
+35060092,Language,7002,  French only,3.4,3.4,3.3
+35060092,Language,8006,Official language minority (percentage),33.1,31,33.3
+35060093,Language,7002,  French only,1.1,0,2.2
+35060093,Language,8006,Official language minority (percentage),34.4,32.6,36.4
+35060094,Language,7002,  French only,1.7,1.7,1.7
+35060094,Language,8006,Official language minority (percentage),29.3,29.3,29.3
+35060095,Language,7002,  French only,1.6,1.5,3.3
+35060095,Language,8006,Official language minority (percentage),32.5,29.7,33.9
+35060096,Language,7002,  French only,3.3,3.9,2.6
+35060096,Language,8006,Official language minority (percentage),29.4,29.3,29.5
+35060097,Language,7002,  French only,5.4,5.8,5.2
+35060097,Language,8006,Official language minority (percentage),39.1,36,42.6
+35060098,Language,7002,  French only,2.6,2.6,2.6
+35060098,Language,8006,Official language minority (percentage),40.3,37.5,42.1
+35060099,Language,7002,  French only,2.8,3,2.6
+35060099,Language,8006,Official language minority (percentage),41.7,39.4,41
+35060100,Language,7002,  French only,0,0,0
+35060100,Language,8006,Official language minority (percentage),31,32.1,30
+35060101,Language,7002,  French only,2.7,0,5.4
+35060101,Language,8006,Official language minority (percentage),36.1,37.1,35.1
+35060102,Language,7002,  French only,2.4,1.6,4.6
+35060102,Language,8006,Official language minority (percentage),35.4,32.8,39.4
+35060103,Language,7002,  French only,1.2,2.5,0
+35060103,Language,8006,Official language minority (percentage),30.5,30.8,31
+35060104,Language,7002,  French only,4.2,3.3,4.9
+35060104,Language,8006,Official language minority (percentage),41.3,40,41
+35060105,Language,7002,  French only,1.8,1.3,3.5
+35060105,Language,8006,Official language minority (percentage),46.3,44.9,47.7
+35060106,Language,7002,  French only,1.2,2.4,2.2
+35060106,Language,8006,Official language minority (percentage),39.5,39,39.1
+35060107,Language,7002,  French only,2.8,1.9,3.6
+35060107,Language,8006,Official language minority (percentage),40.8,38.8,41.8
+35060108,Language,7002,  French only,2.2,2.2,4.3
+35060108,Language,8006,Official language minority (percentage),28.3,28.9,28.3
+35060109,Language,7002,  French only,2.6,1.9,3.2
+35060109,Language,8006,Official language minority (percentage),30.8,31.5,30.6
+35060110,Language,7002,  French only,2.8,3.9,1.7
+35060110,Language,8006,Official language minority (percentage),31.2,30.8,29.3
+35060111,Language,7002,  French only,1.3,1.4,2.5
+35060111,Language,8006,Official language minority (percentage),24.8,23.6,25
+35060112,Language,7002,  French only,2.3,1.3,2.6
+35060112,Language,8006,Official language minority (percentage),27,26.5,27.5
+35060116,Language,7002,  French only,1.8,3.7,3.4
+35060116,Language,8006,Official language minority (percentage),31.6,29.6,33.3
+35060117,Language,7002,  French only,0,0,0
+35060117,Language,8006,Official language minority (percentage),21.4,17,26
+35060118,Language,7002,  French only,2.2,2.6,2
+35060118,Language,8006,Official language minority (percentage),27,25.6,30
+35060119,Language,7002,  French only,1.7,1.8,1.6
+35060119,Language,8006,Official language minority (percentage),36.9,33.9,39.5
+35060120,Language,7002,  French only,3.7,5.4,2.3
+35060120,Language,8006,Official language minority (percentage),34.1,29.7,35.6
+35060121,Language,7002,  French only,0.7,1.4,1.4
+35060121,Language,8006,Official language minority (percentage),24.5,22.5,26.1
+35060122,Language,7002,  French only,0.9,0,1.8
+35060122,Language,8006,Official language minority (percentage),26.2,25.5,28.1
+35060123,Language,7002,  French only,1.4,3.3,2.4
+35060123,Language,8006,Official language minority (percentage),37.5,33.3,38.1
+35060124,Language,7002,  French only,1.4,0,2.6
+35060124,Language,8006,Official language minority (percentage),27,25.7,28.2
+35060125,Language,7002,  French only,4.8,4.8,7.1
+35060125,Language,8006,Official language minority (percentage),47.6,43.9,48.8
+35060126,Language,7002,  French only,3.7,1.7,5.6
+35060126,Language,8006,Official language minority (percentage),42.7,43.6,41.9
+35060127,Language,7002,  French only,6.6,2.8,8.8
+35060127,Language,8006,Official language minority (percentage),53.6,51.4,55
+35060128,Language,7002,  French only,5.7,5.3,4.1
+35060128,Language,8006,Official language minority (percentage),41.4,39.5,40.8
+35060129,Language,7002,  French only,2.3,2.9,1.8
+35060129,Language,8006,Official language minority (percentage),39.1,36.9,40.5
+35060132,Language,7002,  French only,2.1,1.1,2.1
+35060132,Language,8006,Official language minority (percentage),27.9,28.7,28.1
+35060133,Language,7002,  French only,2.3,2.4,3.4
+35060133,Language,8006,Official language minority (percentage),27.7,25.9,29.2
+35060134,Language,7002,  French only,4.5,6.3,5.7
+35060134,Language,8006,Official language minority (percentage),41.8,37.5,44.4
+35060135,Language,7002,  French only,2,0,2
+35060135,Language,8006,Official language minority (percentage),26.3,24,30
+35060137,Language,7002,  French only,2.2,4.3,4.3
+35060137,Language,8006,Official language minority (percentage),24.4,22.7,21.7
+35060138,Language,7002,  French only,0,0,0
+35060138,Language,8006,Official language minority (percentage),23.7,20.4,24.5
+35060139,Language,7002,  French only,1.3,0,0
+35060139,Language,8006,Official language minority (percentage),28.9,27.8,30
+35060140,Language,7002,  French only,4.2,2.4,4.8
+35060140,Language,8006,Official language minority (percentage),23.2,21.4,25.3
+35060141,Language,7002,  French only,1.9,0,1.8
+35060141,Language,8006,Official language minority (percentage),20.8,21.6,19.6
+35060143,Language,7002,  French only,0,0,2
+35060143,Language,8006,Official language minority (percentage),22.3,18.6,24
+35060144,Language,7002,  French only,1.1,0,0
+35060144,Language,8006,Official language minority (percentage),21.3,18.8,21.3
+35060145,Language,7002,  French only,0.8,0,1.6
+35060145,Language,8006,Official language minority (percentage),22.5,21.5,21.9
+35060146,Language,7002,  French only,0,0,0
+35060146,Language,8006,Official language minority (percentage),15,13.2,16.7
+35060147,Language,7002,  French only,0,0,0
+35060147,Language,8006,Official language minority (percentage),47.4,33.3,45.5
+35060148,Language,7002,  French only,2.3,2.3,2.2
+35060148,Language,8006,Official language minority (percentage),28.4,27.9,31.1
+35060149,Language,7002,  French only,3.1,3.2,4.1
+35060149,Language,8006,Official language minority (percentage),28.6,28.4,30.2
+35060150,Language,7002,  French only,1.2,2.9,2
+35060150,Language,8006,Official language minority (percentage),47.1,42.9,47.1
+35060151,Language,7002,  French only,3.1,3.2,3.1
+35060151,Language,8006,Official language minority (percentage),30.7,30.2,30.8
+35060152,Language,7002,  French only,7.9,6.9,11.4
+35060152,Language,8006,Official language minority (percentage),36.5,34.5,37.1
+35060153,Language,7002,  French only,5.1,3.8,6.3
+35060153,Language,8006,Official language minority (percentage),28.2,25.7,30.4
+35060154,Language,7002,  French only,1.3,2.7,2.4
+35060154,Language,8006,Official language minority (percentage),25.6,25,26.2
+35060155,Language,7002,  French only,0.8,1.6,0
+35060155,Language,8006,Official language minority (percentage),23.5,21.3,22.4
+35060156,Language,7002,  French only,1.7,2.7,1
+35060156,Language,8006,Official language minority (percentage),29.5,28.4,31.3
+35060157,Language,7002,  French only,2.2,1.6,2
+35060157,Language,8006,Official language minority (percentage),28,25.4,29.3
+35060159,Language,7002,  French only,5.4,9.1,4.9
+35060159,Language,8006,Official language minority (percentage),27.4,26.5,29.3
+35060163,Language,7002,  French only,3.6,3,4.1
+35060163,Language,8006,Official language minority (percentage),29.7,28.8,31.9
+35060164,Language,7002,  French only,3.3,2.3,6.4
+35060164,Language,8006,Official language minority (percentage),37.4,35.6,38.3
+35060165,Language,7002,  French only,2,2,2
+35060165,Language,8006,Official language minority (percentage),30.7,30,34
+35060166,Language,7002,  French only,5.2,2.3,7.4
+35060166,Language,8006,Official language minority (percentage),38.1,39.5,37
+35060167,Language,7002,  French only,2.5,2.7,3.2
+35060167,Language,8006,Official language minority (percentage),36.4,37.5,35.2
+35060168,Language,7002,  French only,1.4,1.4,2.9
+35060168,Language,8006,Official language minority (percentage),39.9,36.2,42
+35060170,Language,7002,  French only,3.2,2.2,4
+35060170,Language,8006,Official language minority (percentage),43.8,40.2,45.6
+35060171,Language,7002,  French only,9.4,7.7,10.7
+35060171,Language,8006,Official language minority (percentage),42.9,41.5,44.6
+35060172,Language,7002,  French only,3.1,3.2,2.9
+35060172,Language,8006,Official language minority (percentage),34.8,38.7,34.3
+35060173,Language,7002,  French only,5,5.3,7
+35060173,Language,8006,Official language minority (percentage),40,36.8,42.9
+35060178,Language,7002,  French only,4.8,3.1,6.7
+35060178,Language,8006,Official language minority (percentage),37.9,39.4,37.3
+35060179,Language,7002,  French only,1.3,0,0
+35060179,Language,8006,Official language minority (percentage),40.3,41,42.1
+35060180,Language,7002,  French only,2.8,3,2.7
+35060180,Language,8006,Official language minority (percentage),40.8,38.2,45.9
+35060181,Language,7002,  French only,1.8,0,3.8
+35060181,Language,8006,Official language minority (percentage),38.2,34.5,42.3
+35060182,Language,7002,  French only,3.8,3.8,3.8
+35060182,Language,8006,Official language minority (percentage),36.2,35.8,35.8
+35060183,Language,7002,  French only,10.1,4.4,14.1
+35060183,Language,8006,Official language minority (percentage),43.1,37.8,46.2
+35060184,Language,7002,  French only,2.9,2.9,4.3
+35060184,Language,8006,Official language minority (percentage),39.1,36.2,41.4
+35060185,Language,7002,  French only,4.5,2.4,6.4
+35060185,Language,8006,Official language minority (percentage),35.2,29.3,41.3
+35060186,Language,7002,  French only,2.9,3.6,2.3
+35060186,Language,8006,Official language minority (percentage),34.5,32.5,38.6
+35060187,Language,7002,  French only,1.2,0,2.2
+35060187,Language,8006,Official language minority (percentage),43.5,42.1,43.5
+35060188,Language,7002,  French only,6.8,6.1,8.8
+35060188,Language,8006,Official language minority (percentage),57.8,55.1,58.8
+35060189,Language,7002,  French only,7.1,6.8,7.5
+35060189,Language,8006,Official language minority (percentage),36.9,36.4,37.5
+35060192,Language,7002,  French only,3.8,2.6,5.1
+35060192,Language,8006,Official language minority (percentage),41,38.5,42.5
+35060194,Language,7002,  French only,3,3.7,4.3
+35060194,Language,8006,Official language minority (percentage),32,31.5,32.6
+35060195,Language,7002,  French only,3.6,2.4,4.7
+35060195,Language,8006,Official language minority (percentage),31.8,33.3,32.6
+35060196,Language,7002,  French only,6.9,5.6,5.6
+35060196,Language,8006,Official language minority (percentage),37.5,38.9,36.1
+35060197,Language,7002,  French only,1.2,0.9,1.4
+35060197,Language,8006,Official language minority (percentage),32.3,31,33.6
+35060198,Language,7002,  French only,4.5,4.4,6.7
+35060198,Language,8006,Official language minority (percentage),33.7,34.1,33.3
+35060199,Language,7002,  French only,4.9,5,4.9
+35060199,Language,8006,Official language minority (percentage),28,26.8,29.3
+35060200,Language,7002,  French only,2.7,2.6,2.7
+35060200,Language,8006,Official language minority (percentage),34.7,36.8,32.4
+35060201,Language,7002,  French only,3.1,3.4,2.9
+35060201,Language,8006,Official language minority (percentage),32.6,30.5,33.3
+35060202,Language,7002,  French only,4.4,1.7,5.4
+35060202,Language,8006,Official language minority (percentage),29.8,29.8,29.8
+35060205,Language,7002,  French only,1,2,2
+35060205,Language,8006,Official language minority (percentage),42.6,43.1,44
+35060206,Language,7002,  French only,5.3,2.1,8.5
+35060206,Language,8006,Official language minority (percentage),39.4,34,44.7
+35060207,Language,7002,  French only,3.1,2,4.2
+35060207,Language,8006,Official language minority (percentage),52.6,48,54.2
+35060208,Language,7002,  French only,6.7,4.5,6.5
+35060208,Language,8006,Official language minority (percentage),51.9,47.7,54.8
+35060209,Language,7002,  French only,5.1,5,5.2
+35060209,Language,8006,Official language minority (percentage),34.6,33.3,35.1
+35060210,Language,7002,  French only,5.4,3.7,6.6
+35060210,Language,8006,Official language minority (percentage),35.4,33.3,36.8
+35060211,Language,7002,  French only,1.1,0,0
+35060211,Language,8006,Official language minority (percentage),10.5,13,8.2
+35060213,Language,7002,  French only,0,0,0
+35060213,Language,8006,Official language minority (percentage),14.5,14.7,14.3
+35060219,Language,7002,  French only,0.7,0,1.2
+35060219,Language,8006,Official language minority (percentage),18.3,17.1,19.3
+35060220,Language,7002,  French only,3.2,0,2.4
+35060220,Language,8006,Official language minority (percentage),42.9,23.8,52.4
+35060221,Language,7002,  French only,0.8,1.7,1.6
+35060221,Language,8006,Official language minority (percentage),16.9,15,18.8
+35060222,Language,7002,  French only,1.1,2.4,2
+35060222,Language,8006,Official language minority (percentage),7.7,9.5,6
+35060223,Language,7002,  French only,0,0,1.9
+35060223,Language,8006,Official language minority (percentage),12.9,12.2,13.5
+35060224,Language,7002,  French only,0,0,0
+35060224,Language,8006,Official language minority (percentage),13.7,8.7,18.4
+35060225,Language,7002,  French only,0,0,0
+35060225,Language,8006,Official language minority (percentage),11.1,10.4,11.8
+35060226,Language,7002,  French only,1.2,2.4,2.2
+35060226,Language,8006,Official language minority (percentage),16.1,14.6,20
+35060227,Language,7002,  French only,3.1,4.4,3.8
+35060227,Language,8006,Official language minority (percentage),24,22.7,23.1
+35060228,Language,7002,  French only,3.2,2.3,2
+35060228,Language,8006,Official language minority (percentage),21.3,22.7,18
+35060229,Language,7002,  French only,2.5,2.6,2.4
+35060229,Language,8006,Official language minority (percentage),25,28.2,24.4
+35060230,Language,7002,  French only,1.1,0,2
+35060230,Language,8006,Official language minority (percentage),25.3,23.3,29.4
+35060231,Language,7002,  French only,2.4,0,2.7
+35060231,Language,8006,Official language minority (percentage),27.3,24.1,28.4
+35060232,Language,7002,  French only,4,2,4
+35060232,Language,8006,Official language minority (percentage),33.7,32,38
+35060233,Language,7002,  French only,7.3,2.9,10.4
+35060233,Language,8006,Official language minority (percentage),48.8,45.6,51
+35060234,Language,7002,  French only,5.1,3.3,6.5
+35060234,Language,8006,Official language minority (percentage),37.9,37.4,38.3
+35060236,Language,7002,  French only,3.7,2.5,3.7
+35060236,Language,8006,Official language minority (percentage),58.4,51.9,63.3
+35060237,Language,7002,  French only,5.9,6,5.8
+35060237,Language,8006,Official language minority (percentage),42.9,38,45.6
+35060243,Language,7002,  French only,0.9,2,3.4
+35060243,Language,8006,Official language minority (percentage),18.3,20,17.2
+35060246,Language,7002,  French only,11.7,9.5,14.7
+35060246,Language,8006,Official language minority (percentage),42,39.1,44.6
+35060249,Language,7002,  French only,0.9,0,1.8
+35060249,Language,8006,Official language minority (percentage),20.5,21.7,19.6
+35060251,Language,7002,  French only,3.2,2,4.3
+35060251,Language,8006,Official language minority (percentage),27.4,26.5,25.5
+35060252,Language,7002,  French only,1.7,0,1.6
+35060252,Language,8006,Official language minority (percentage),27.3,25.4,29
+35060253,Language,7002,  French only,30.4,0,40
+35060253,Language,8006,Official language minority (percentage),65.2,20,80
+35060254,Language,7002,  French only,2.8,0,3.8
+35060254,Language,8006,Official language minority (percentage),32.1,29.6,36.5
+35060255,Language,7002,  French only,2.9,2.1,3.5
+35060255,Language,8006,Official language minority (percentage),31.4,29.2,33.3
+35060264,Language,7002,  French only,0,0,0
+35060264,Language,8006,Official language minority (percentage),22.6,25,20
+35060267,Language,7002,  French only,1.3,0,0
+35060267,Language,8006,Official language minority (percentage),21.5,18.6,27
+35060280,Language,7002,  French only,1.9,2,0
+35060280,Language,8006,Official language minority (percentage),14.7,14.3,15.1
+35060282,Language,7002,  French only,1,0,2
+35060282,Language,8006,Official language minority (percentage),10.8,11.8,9.8
+35060283,Language,7002,  French only,1.2,0,0
+35060283,Language,8006,Official language minority (percentage),9.3,9.8,11.4
+35060285,Language,7002,  French only,0,0,0
+35060285,Language,8006,Official language minority (percentage),10,10,10.2
+35060286,Language,7002,  French only,1.5,1.7,2.7
+35060286,Language,8006,Official language minority (percentage),12.1,10.2,13.7
+35060287,Language,7002,  French only,1,0,0
+35060287,Language,8006,Official language minority (percentage),12.5,10.4,12.5
+35060288,Language,7002,  French only,0,0,0
+35060288,Language,8006,Official language minority (percentage),8.2,10.4,6
+35060289,Language,7002,  French only,0,0,2
+35060289,Language,8006,Official language minority (percentage),10.9,10.2,11.8
+35060290,Language,7002,  French only,0,0,0
+35060290,Language,8006,Official language minority (percentage),5.4,6.7,4.3
+35060291,Language,7002,  French only,0,0,0
+35060291,Language,8006,Official language minority (percentage),7.6,5.2,9.7
+35060292,Language,7002,  French only,0,0,0
+35060292,Language,8006,Official language minority (percentage),8.8,7,10.7
+35060293,Language,7002,  French only,0.7,1.4,0
+35060293,Language,8006,Official language minority (percentage),6.5,5.8,7.2
+35060294,Language,7002,  French only,0,0,0
+35060294,Language,8006,Official language minority (percentage),6.7,6.9,6.6
+35060295,Language,7002,  French only,0,0,0
+35060295,Language,8006,Official language minority (percentage),9,7,10.9
+35060296,Language,7002,  French only,0,0,0
+35060296,Language,8006,Official language minority (percentage),3.4,2.4,4.3
+35060297,Language,7002,  French only,0,0,0
+35060297,Language,8006,Official language minority (percentage),5.7,4.2,5.3
+35060298,Language,7002,  French only,0,0,0
+35060298,Language,8006,Official language minority (percentage),8.6,8.5,8.7
+35060300,Language,7002,  French only,1,0,0
+35060300,Language,8006,Official language minority (percentage),9.1,6.3,9.6
+35060301,Language,7002,  French only,0,0,0
+35060301,Language,8006,Official language minority (percentage),5.3,6.4,4.2
+35060305,Language,7002,  French only,0.7,1.6,0
+35060305,Language,8006,Official language minority (percentage),12.4,12.9,12
+35060306,Language,7002,  French only,0,0,0
+35060306,Language,8006,Official language minority (percentage),10.1,10.5,9.8
+35060307,Language,7002,  French only,0,0,0
+35060307,Language,8006,Official language minority (percentage),7.1,5.5,8.5
+35060308,Language,7002,  French only,0,0,0
+35060308,Language,8006,Official language minority (percentage),9.3,10.8,7.9
+35060310,Language,7002,  French only,0,0,0
+35060310,Language,8006,Official language minority (percentage),9.7,10.5,10.9
+35060312,Language,7002,  French only,0,0,0
+35060312,Language,8006,Official language minority (percentage),9.6,8.8,12.5
+35060313,Language,7002,  French only,0,0,0
+35060313,Language,8006,Official language minority (percentage),8.6,7.1,8
+35060314,Language,7002,  French only,0,0,0
+35060314,Language,8006,Official language minority (percentage),12,14,11.8
+35060315,Language,7002,  French only,1.2,0,0
+35060315,Language,8006,Official language minority (percentage),9.3,6.8,9.5
+35060324,Language,7002,  French only,0,0,0
+35060324,Language,8006,Official language minority (percentage),12.5,8.2,12.7
+35060325,Language,7002,  French only,1.1,0,0
+35060325,Language,8006,Official language minority (percentage),12.6,12.2,8.7
+35060327,Language,7002,  French only,0,0,0
+35060327,Language,8006,Official language minority (percentage),10.5,7.7,13.2
+35060329,Language,7002,  French only,0.8,1.8,0
+35060329,Language,8006,Official language minority (percentage),16.1,14.8,18.8
+35060330,Language,7002,  French only,0.8,0,1.6
+35060330,Language,8006,Official language minority (percentage),15.7,15.5,15.9
+35060331,Language,7002,  French only,0,0,0
+35060331,Language,8006,Official language minority (percentage),15.6,13,18
+35060332,Language,7002,  French only,0,0,0
+35060332,Language,8006,Official language minority (percentage),13.7,13.3,11.9
+35060333,Language,7002,  French only,0.9,2,0
+35060333,Language,8006,Official language minority (percentage),18.5,19.6,17.5
+35060334,Language,7002,  French only,0,0,0
+35060334,Language,8006,Official language minority (percentage),14.4,14.6,14.3
+35060336,Language,7002,  French only,1,2,1.9
+35060336,Language,8006,Official language minority (percentage),12.5,9.8,13.2
+35060337,Language,7002,  French only,0,0,0
+35060337,Language,8006,Official language minority (percentage),14.6,14.8,16.1
+35060338,Language,7002,  French only,0.7,1.3,0
+35060338,Language,8006,Official language minority (percentage),16.9,17.1,16.4
+35060339,Language,7002,  French only,0.8,0,0
+35060339,Language,8006,Official language minority (percentage),12.2,11.8,14.5
+35060343,Language,7002,  French only,3.4,3.8,1.6
+35060343,Language,8006,Official language minority (percentage),18.8,20.8,17.2
+35060345,Language,7002,  French only,0,0,0
+35060345,Language,8006,Official language minority (percentage),8.8,6.8,11.1
+35060346,Language,7002,  French only,1.2,2.3,2.6
+35060346,Language,8006,Official language minority (percentage),14.6,18.6,10.3
+35060347,Language,7002,  French only,0,0,0
+35060347,Language,8006,Official language minority (percentage),10.5,10,11.4
+35060348,Language,7002,  French only,0,0,0
+35060348,Language,8006,Official language minority (percentage),5.6,5.4,5.9
+35060353,Language,7002,  French only,1,0,0
+35060353,Language,8006,Official language minority (percentage),14.3,14.3,16.1
+35060354,Language,7002,  French only,0,0,0
+35060354,Language,8006,Official language minority (percentage),13.9,12.8,14.8
+35060360,Language,7002,  French only,0,0,0
+35060360,Language,8006,Official language minority (percentage),11.5,12.5,11.1
+35060361,Language,7002,  French only,2.4,1.3,2
+35060361,Language,8006,Official language minority (percentage),11.3,12.2,10
+35060364,Language,7002,  French only,0,0,0
+35060364,Language,8006,Official language minority (percentage),8.4,7.3,7.1
+35060366,Language,7002,  French only,1.6,0,3.3
+35060366,Language,8006,Official language minority (percentage),8.7,9.1,10
+35060367,Language,7002,  French only,0,0,0
+35060367,Language,8006,Official language minority (percentage),7.9,8.3,9.1
+35060368,Language,7002,  French only,0,0,0
+35060368,Language,8006,Official language minority (percentage),6.5,7.4,5.6
+35060371,Language,7002,  French only,0,0,0
+35060371,Language,8006,Official language minority (percentage),7.6,6.4,8.9
+35060373,Language,7002,  French only,0,0,0
+35060373,Language,8006,Official language minority (percentage),6.2,2,8.3
+35060375,Language,7002,  French only,1.2,0,2.2
+35060375,Language,8006,Official language minority (percentage),12.5,13.9,11.1
+35060379,Language,7002,  French only,0,0,0
+35060379,Language,8006,Official language minority (percentage),6.3,5.7,6.9
+35060380,Language,7002,  French only,0.9,0,0
+35060380,Language,8006,Official language minority (percentage),10.4,10.9,10.3
+35060381,Language,7002,  French only,1,2.1,0
+35060381,Language,8006,Official language minority (percentage),8.7,8.2,9.1
+35060382,Language,7002,  French only,1,0,1.9
+35060382,Language,8006,Official language minority (percentage),14.7,14,15.1
+35060383,Language,7002,  French only,0,0,0
+35060383,Language,8006,Official language minority (percentage),12.6,13.6,11.5
+35060384,Language,7002,  French only,0,0,0
+35060384,Language,8006,Official language minority (percentage),14.7,16,13.7
+35060385,Language,7002,  French only,1.8,1.9,1.8
+35060385,Language,8006,Official language minority (percentage),18,14.8,19.3
+35060386,Language,7002,  French only,1.1,0,2.1
+35060386,Language,8006,Official language minority (percentage),13.8,15.2,10.4
+35060387,Language,7002,  French only,1.3,2.4,0
+35060387,Language,8006,Official language minority (percentage),12.7,12.2,13.2
+35060388,Language,7002,  French only,0,0,0
+35060388,Language,8006,Official language minority (percentage),10.2,7.1,9.7
+35060389,Language,7002,  French only,1.1,0,2.3
+35060389,Language,8006,Official language minority (percentage),16.1,19,13.6
+35060390,Language,7002,  French only,0,0,0
+35060390,Language,8006,Official language minority (percentage),14.7,14.3,15.1
+35060391,Language,7002,  French only,2.6,0,1.8
+35060391,Language,8006,Official language minority (percentage),14.8,11.9,16.1
+35060392,Language,7002,  French only,0,0,0
+35060392,Language,8006,Official language minority (percentage),9.1,8.5,11.3
+35060393,Language,7002,  French only,0.7,0,1.4
+35060393,Language,8006,Official language minority (percentage),13,10.8,14.1
+35060394,Language,7002,  French only,2.4,0,2.6
+35060394,Language,8006,Official language minority (percentage),13.3,11.4,15.4
+35060395,Language,7002,  French only,1.9,1.9,0
+35060395,Language,8006,Official language minority (percentage),11.4,11.1,11.5
+35060396,Language,7002,  French only,0.8,0,0
+35060396,Language,8006,Official language minority (percentage),9.3,5.4,11.5
+35060397,Language,7002,  French only,0,2,0
+35060397,Language,8006,Official language minority (percentage),9.6,10,9.1
+35060399,Language,7002,  French only,1.6,1.5,1.7
+35060399,Language,8006,Official language minority (percentage),19.4,19.7,17.2
+35060400,Language,7002,  French only,0,0,0
+35060400,Language,8006,Official language minority (percentage),14.3,11.1,11.8
+35060401,Language,7002,  French only,0.8,0,1.7
+35060401,Language,8006,Official language minority (percentage),13.8,14.1,15.3
+35060402,Language,7002,  French only,0,0,0
+35060402,Language,8006,Official language minority (percentage),19.1,18.6,17.9
+35060403,Language,7002,  French only,0.8,1.6,0
+35060403,Language,8006,Official language minority (percentage),20.6,21,20.3
+35060404,Language,7002,  French only,3.4,1.7,4.9
+35060404,Language,8006,Official language minority (percentage),19.3,13.6,24.6
+35060405,Language,7002,  French only,0,0,0
+35060405,Language,8006,Official language minority (percentage),11.1,9.9,12.3
+35060406,Language,7002,  French only,1.2,1.2,1.4
+35060406,Language,8006,Official language minority (percentage),17.4,16.3,20
+35060407,Language,7002,  French only,0,0,1.3
+35060407,Language,8006,Official language minority (percentage),13.8,13.4,15.2
+35060408,Language,7002,  French only,0.7,0,0
+35060408,Language,8006,Official language minority (percentage),17.9,16.5,19.2
+35060412,Language,7002,  French only,0,1.6,0
+35060412,Language,8006,Official language minority (percentage),7,9.5,6.1
+35060413,Language,7002,  French only,0,1.6,0
+35060413,Language,8006,Official language minority (percentage),8.1,7.9,8.3
+35060417,Language,7002,  French only,0.6,1.3,1
+35060417,Language,8006,Official language minority (percentage),10.4,11.8,9.3
+35060419,Language,7002,  French only,0,0,0
+35060419,Language,8006,Official language minority (percentage),5.6,7.7,7.4
+35060434,Language,7002,  French only,0,0,0
+35060434,Language,8006,Official language minority (percentage),6,2.5,7
+35060435,Language,7002,  French only,1,0,0
+35060435,Language,8006,Official language minority (percentage),6.8,3.9,9.6
+35060436,Language,7002,  French only,0,0,0
+35060436,Language,8006,Official language minority (percentage),4.8,2.4,7.3
+35060437,Language,7002,  French only,0,0,0
+35060437,Language,8006,Official language minority (percentage),6.3,6.7,4
+35060438,Language,7002,  French only,0,0,0
+35060438,Language,8006,Official language minority (percentage),4.3,2.9,4.4
+35060439,Language,7002,  French only,0,0,0
+35060439,Language,8006,Official language minority (percentage),8,6.5,7.5
+35060440,Language,7002,  French only,0,0,0
+35060440,Language,8006,Official language minority (percentage),3.4,4.5,4.3
+35060443,Language,7002,  French only,0,2.6,2.7
+35060443,Language,8006,Official language minority (percentage),7.9,5.1,11.1
+35060444,Language,7002,  French only,1.1,0,0
+35060444,Language,8006,Official language minority (percentage),9.2,10.5,8.2
+35060445,Language,7002,  French only,0,0,0
+35060445,Language,8006,Official language minority (percentage),6.1,6.7,5.8
+35060446,Language,7002,  French only,0,0,2
+35060446,Language,8006,Official language minority (percentage),8.1,7.8,10
+35060447,Language,7002,  French only,0.9,1.8,1.8
+35060447,Language,8006,Official language minority (percentage),7.1,7.1,8.9
+35060448,Language,7002,  French only,0,0,0
+35060448,Language,8006,Official language minority (percentage),9.2,10,6.6
+35060449,Language,7002,  French only,0,0,0
+35060449,Language,8006,Official language minority (percentage),7.1,6.3,8.2
+35060450,Language,7002,  French only,0,0,0
+35060450,Language,8006,Official language minority (percentage),8.4,8.2,10.6
+35060451,Language,7002,  French only,1.3,0,0
+35060451,Language,8006,Official language minority (percentage),9.3,5.3,13.5
+35060452,Language,7002,  French only,0,1.8,1.9
+35060452,Language,8006,Official language minority (percentage),5.5,5.5,5.7
+35060455,Language,7002,  French only,0,0,0
+35060455,Language,8006,Official language minority (percentage),8.2,7.3,6.7
+35060456,Language,7002,  French only,0,0,0
+35060456,Language,8006,Official language minority (percentage),8.2,7.9,10.8
+35060457,Language,7002,  French only,0,0,0
+35060457,Language,8006,Official language minority (percentage),6.4,5.3,7.5
+35060458,Language,7002,  French only,0,0,0
+35060458,Language,8006,Official language minority (percentage),5.7,7.5,6.4
+35060459,Language,7002,  French only,0,0,0
+35060459,Language,8006,Official language minority (percentage),6,6.8,5
+35060460,Language,7002,  French only,0.8,0,0
+35060460,Language,8006,Official language minority (percentage),7.9,3,11.3
+35060461,Language,7002,  French only,0,0,0
+35060461,Language,8006,Official language minority (percentage),7.6,4.9,10.5
+35060462,Language,7002,  French only,0,1.9,0
+35060462,Language,8006,Official language minority (percentage),5.8,5.8,7.8
+35060463,Language,7002,  French only,0,0,0
+35060463,Language,8006,Official language minority (percentage),7.3,5,9.5
+35060464,Language,7002,  French only,0,0,0
+35060464,Language,8006,Official language minority (percentage),6.2,5.3,9.1
+35060465,Language,7002,  French only,0,0,0
+35060465,Language,8006,Official language minority (percentage),6.8,5.3,8.6
+35060466,Language,7002,  French only,0,0,0
+35060466,Language,8006,Official language minority (percentage),4.5,5.7,6.5
+35060467,Language,7002,  French only,0,0,0
+35060467,Language,8006,Official language minority (percentage),7.1,7,7.1
+35060468,Language,7002,  French only,0.7,0,0
+35060468,Language,8006,Official language minority (percentage),6.7,6.3,8.6
+35060469,Language,7002,  French only,0.6,1,0
+35060469,Language,8006,Official language minority (percentage),4.8,5,4.5
+35060471,Language,7002,  French only,0,0,0
+35060471,Language,8006,Official language minority (percentage),7.9,7.6,10
+35060474,Language,7002,  French only,1,1.8,0
+35060474,Language,8006,Official language minority (percentage),7.6,7.4,7.8
+35060475,Language,7002,  French only,0,0,0
+35060475,Language,8006,Official language minority (percentage),7,8.9,4.9
+35060476,Language,7002,  French only,0,0,0
+35060476,Language,8006,Official language minority (percentage),6.8,7.6,5.9
+35060479,Language,7002,  French only,2,1.5,2.5
+35060479,Language,8006,Official language minority (percentage),16.9,13.2,20
+35060480,Language,7002,  French only,3.9,0,5.4
+35060480,Language,8006,Official language minority (percentage),16.9,12.8,21.6
+35060481,Language,7002,  French only,0.8,1.6,0
+35060481,Language,8006,Official language minority (percentage),6,7.8,5.8
+35060482,Language,7002,  French only,1,1.9,2.1
+35060482,Language,8006,Official language minority (percentage),14.1,11.5,14.9
+35060483,Language,7002,  French only,0,0,0
+35060483,Language,8006,Official language minority (percentage),10.4,9.1,7.7
+35060484,Language,7002,  French only,0,0,0
+35060484,Language,8006,Official language minority (percentage),11.7,13.7,11.8
+35060485,Language,7002,  French only,0,0,0
+35060485,Language,8006,Official language minority (percentage),6,8,4
+35060486,Language,7002,  French only,0,0,0
+35060486,Language,8006,Official language minority (percentage),5,5.6,5.1
+35060488,Language,7002,  French only,0,0,0.8
+35060488,Language,8006,Official language minority (percentage),6.7,5.1,7.9
+35060491,Language,7002,  French only,0,0,0
+35060491,Language,8006,Official language minority (percentage),8.7,8.6,8.8
+35060492,Language,7002,  French only,1,0,0
+35060492,Language,8006,Official language minority (percentage),8.8,6.3,9.4
+35060493,Language,7002,  French only,0,0,0
+35060493,Language,8006,Official language minority (percentage),4.8,5.5,5.5
+35060494,Language,7002,  French only,0,0,0
+35060494,Language,8006,Official language minority (percentage),9.7,8.1,14.3
+35060495,Language,7002,  French only,0.4,0.9,0.8
+35060495,Language,8006,Official language minority (percentage),7.8,6.8,8.7
+35060496,Language,7002,  French only,0.6,1.1,1.1
+35060496,Language,8006,Official language minority (percentage),7.2,6.8,7.6
+35060497,Language,7002,  French only,0,0,0
+35060497,Language,8006,Official language minority (percentage),8.8,8.3,7.5
+35060498,Language,7002,  French only,0,0,0
+35060498,Language,8006,Official language minority (percentage),7.1,7.1,7.1
+35060499,Language,7002,  French only,0,0,0
+35060499,Language,8006,Official language minority (percentage),8,5.3,9.1
+35060500,Language,7002,  French only,0,0,0
+35060500,Language,8006,Official language minority (percentage),8.4,2.6,11.1
+35060501,Language,7002,  French only,0,0,0
+35060501,Language,8006,Official language minority (percentage),7.2,8.8,8.6
+35060502,Language,7002,  French only,0,0,0
+35060502,Language,8006,Official language minority (percentage),4.4,4.3,4.4
+35060503,Language,7002,  French only,0,0,0
+35060503,Language,8006,Official language minority (percentage),7.6,7.8,7.6
+35060504,Language,7002,  French only,0,0,0
+35060504,Language,8006,Official language minority (percentage),4.5,3,3
+35060505,Language,7002,  French only,0,0,0
+35060505,Language,8006,Official language minority (percentage),6.5,8.2,6.5
+35060506,Language,7002,  French only,0,2.3,0
+35060506,Language,8006,Official language minority (percentage),7.7,7,8.3
+35060507,Language,7002,  French only,0,0,0
+35060507,Language,8006,Official language minority (percentage),5.3,2.6,8.3
+35060508,Language,7002,  French only,0,2.6,0
+35060508,Language,8006,Official language minority (percentage),3.9,5.1,5.4
+35060509,Language,7002,  French only,1,0,0
+35060509,Language,8006,Official language minority (percentage),8.9,10.4,7.5
+35060510,Language,7002,  French only,0,0,0
+35060510,Language,8006,Official language minority (percentage),9.2,7.9,9.1
+35060511,Language,7002,  French only,1.3,1.8,1.7
+35060511,Language,8006,Official language minority (percentage),10.3,10.9,9.6
+35060512,Language,7002,  French only,1,0,2
+35060512,Language,8006,Official language minority (percentage),8.2,6.4,10.2
+35060513,Language,7002,  French only,0,0,0
+35060513,Language,8006,Official language minority (percentage),4.6,4.8,4.5
+35060514,Language,7002,  French only,0.7,1.7,1.3
+35060514,Language,8006,Official language minority (percentage),8,8.6,8.8
+35060515,Language,7002,  French only,0.5,0,0
+35060515,Language,8006,Official language minority (percentage),10.6,9.7,10.3
+35060516,Language,7002,  French only,1.9,0,3.6
+35060516,Language,8006,Official language minority (percentage),11.5,12.5,7.1
+35060517,Language,7002,  French only,1.3,0,2.6
+35060517,Language,8006,Official language minority (percentage),3.9,2.6,5.3
+35060518,Language,7002,  French only,1.1,2.4,2.1
+35060518,Language,8006,Official language minority (percentage),5.6,2.4,6.1
+35060519,Language,7002,  French only,1.3,0,0
+35060519,Language,8006,Official language minority (percentage),8,7.9,7.9
+35060520,Language,7002,  French only,0,0,0
+35060520,Language,8006,Official language minority (percentage),11.8,7.7,15.8
+35060521,Language,7002,  French only,0,0,0
+35060521,Language,8006,Official language minority (percentage),8.8,7.6,8.7
+35060522,Language,7002,  French only,0,0,0
+35060522,Language,8006,Official language minority (percentage),5.5,5.4,5.7
+35060523,Language,7002,  French only,0.8,1.6,1.7
+35060523,Language,8006,Official language minority (percentage),10.5,7.8,13.3
+35060524,Language,7002,  French only,0.9,1.7,1.8
+35060524,Language,8006,Official language minority (percentage),7.8,6.9,8.8
+35060525,Language,7002,  French only,1.7,1.1,2.3
+35060525,Language,8006,Official language minority (percentage),7.8,7.7,6.9
+35060526,Language,7002,  French only,0.9,0,1
+35060526,Language,8006,Official language minority (percentage),6.8,6,7.7
+35060527,Language,7002,  French only,0,0,0
+35060527,Language,8006,Official language minority (percentage),9.2,9.4,11.8
+35060529,Language,7002,  French only,0,0,0
+35060529,Language,8006,Official language minority (percentage),6.7,7.9,7.9
+35060530,Language,7002,  French only,0,0,0
+35060530,Language,8006,Official language minority (percentage),3.8,5.9,3.7
+35060531,Language,7002,  French only,0,0,0
+35060531,Language,8006,Official language minority (percentage),8.8,8.9,8.8
+35060533,Language,7002,  French only,0.7,0,0
+35060533,Language,8006,Official language minority (percentage),8.4,8,9
+35060534,Language,7002,  French only,0,0,0
+35060534,Language,8006,Official language minority (percentage),5.6,8.8,5.6
+35060535,Language,7002,  French only,2.6,2.6,2.5
+35060535,Language,8006,Official language minority (percentage),10.3,10.5,10.3
+35060538,Language,7002,  French only,4.7,0,5.7
+35060538,Language,8006,Official language minority (percentage),20.3,17.2,22.9
+35060539,Language,7002,  French only,2.4,1.6,2.5
+35060539,Language,8006,Official language minority (percentage),15.3,13.5,17.2
+35060544,Language,7002,  French only,0.7,1.4,0
+35060544,Language,8006,Official language minority (percentage),10.6,8.7,12.3
+35060547,Language,7002,  French only,0,0,0
+35060547,Language,8006,Official language minority (percentage),8.1,5.1,10.6
+35060551,Language,7002,  French only,0,0,0
+35060551,Language,8006,Official language minority (percentage),14.5,10.5,18.9
+35060553,Language,7002,  French only,0,0,0
+35060553,Language,8006,Official language minority (percentage),7.8,7.7,11.5
+35060554,Language,7002,  French only,0,0,0
+35060554,Language,8006,Official language minority (percentage),11.8,13.3,10.3
+35060555,Language,7002,  French only,0,0,0
+35060555,Language,8006,Official language minority (percentage),9.7,12.1,10.5
+35060556,Language,7002,  French only,0.8,0.9,0.8
+35060556,Language,8006,Official language minority (percentage),14.1,14.8,14.2
+35060557,Language,7002,  French only,1,2.3,1
+35060557,Language,8006,Official language minority (percentage),11.9,10.2,13.3
+35060558,Language,7002,  French only,3.3,3.9,2.7
+35060558,Language,8006,Official language minority (percentage),16.7,15.7,17.7
+35060559,Language,7002,  French only,2.5,1.7,4.8
+35060559,Language,8006,Official language minority (percentage),12.4,11.9,14.5
+35060560,Language,7002,  French only,3.7,3,2.9
+35060560,Language,8006,Official language minority (percentage),14.7,14.9,14.5
+35060561,Language,7002,  French only,0,0,0
+35060561,Language,8006,Official language minority (percentage),7.4,10.9,6.3
+35060562,Language,7002,  French only,0.6,1.3,1.3
+35060562,Language,8006,Official language minority (percentage),14.7,15.4,12.8
+35060563,Language,7002,  French only,4.2,4,4.3
+35060563,Language,8006,Official language minority (percentage),18.8,20,17.4
+35060564,Language,7002,  French only,2.7,0,0
+35060564,Language,8006,Official language minority (percentage),16.2,21.1,22.2
+35060565,Language,7002,  French only,1.8,3.3,3.8
+35060565,Language,8006,Official language minority (percentage),19.6,20,19.2
+35060567,Language,7002,  French only,0,0,4.2
+35060567,Language,8006,Official language minority (percentage),12.8,13.6,12
+35060568,Language,7002,  French only,0,0,2.1
+35060568,Language,8006,Official language minority (percentage),12.8,10.6,14.9
+35060569,Language,7002,  French only,0.5,1.1,0
+35060569,Language,8006,Official language minority (percentage),12.1,12,11.3
+35060573,Language,7002,  French only,0,0,0
+35060573,Language,8006,Official language minority (percentage),9,8.1,9.9
+35060574,Language,7002,  French only,0,0,0
+35060574,Language,8006,Official language minority (percentage),4.9,5,4.8
+35060575,Language,7002,  French only,0,0,0
+35060575,Language,8006,Official language minority (percentage),6.5,6.2,6.8
+35060576,Language,7002,  French only,0,0,0
+35060576,Language,8006,Official language minority (percentage),8.5,8.3,6.4
+35060577,Language,7002,  French only,0,0,0
+35060577,Language,8006,Official language minority (percentage),7.3,3.2,8
+35060578,Language,7002,  French only,0,0,0
+35060578,Language,8006,Official language minority (percentage),5.6,2.9,5.6
+35060579,Language,7002,  French only,0,0,0
+35060579,Language,8006,Official language minority (percentage),7.1,4.7,7.1
+35060580,Language,7002,  French only,0.7,0,0
+35060580,Language,8006,Official language minority (percentage),10.1,8.8,11.1
+35060582,Language,7002,  French only,0.8,0,1.5
+35060582,Language,8006,Official language minority (percentage),9.2,11.3,7.5
+35060585,Language,7002,  French only,0,0,0
+35060585,Language,8006,Official language minority (percentage),8.1,3.1,9.7
+35060588,Language,7002,  French only,0,0,1.2
+35060588,Language,8006,Official language minority (percentage),8.8,7.5,8.6
+35060590,Language,7002,  French only,0,0,0
+35060590,Language,8006,Official language minority (percentage),9.8,8.9,10.9
+35060592,Language,7002,  French only,0.5,0,0
+35060592,Language,8006,Official language minority (percentage),7.1,6.5,8.9
+35060593,Language,7002,  French only,1.9,2.2,1.7
+35060593,Language,8006,Official language minority (percentage),11.4,8.9,13.3
+35060594,Language,7002,  French only,0.9,0,0
+35060594,Language,8006,Official language minority (percentage),9.2,8.8,9.6
+35060595,Language,7002,  French only,0.6,0,1.2
+35060595,Language,8006,Official language minority (percentage),9,7.3,10.5
+35060597,Language,7002,  French only,0,0,0
+35060597,Language,8006,Official language minority (percentage),7.3,8.3,6.3
+35060598,Language,7002,  French only,0,0,0
+35060598,Language,8006,Official language minority (percentage),7,4.7,10.8
+35060599,Language,7002,  French only,0,0,0
+35060599,Language,8006,Official language minority (percentage),7.8,7.8,9.4
+35060600,Language,7002,  French only,0,0,0
+35060600,Language,8006,Official language minority (percentage),6.6,5.1,8.1
+35060602,Language,7002,  French only,0.8,1.8,0
+35060602,Language,8006,Official language minority (percentage),11.1,10.5,11.4
+35060603,Language,7002,  French only,0,0,0
+35060603,Language,8006,Official language minority (percentage),8.5,9.3,7.8
+35060604,Language,7002,  French only,0,0,0
+35060604,Language,8006,Official language minority (percentage),6.4,4.3,8.3
+35060605,Language,7002,  French only,0,0,0
+35060605,Language,8006,Official language minority (percentage),6.6,4.8,6.6
+35060606,Language,7002,  French only,1,0,0
+35060606,Language,8006,Official language minority (percentage),5.8,3.9,7.7
+35060607,Language,7002,  French only,1.4,0,2.8
+35060607,Language,8006,Official language minority (percentage),7.1,8.6,5.7
+35060608,Language,7002,  French only,0.8,0,0
+35060608,Language,8006,Official language minority (percentage),7.6,8.6,6.8
+35060609,Language,7002,  French only,0,0,0
+35060609,Language,8006,Official language minority (percentage),9.8,8.5,9.2
+35060610,Language,7002,  French only,1.3,0,0
+35060610,Language,8006,Official language minority (percentage),6.6,5.4,8.1
+35060611,Language,7002,  French only,1.1,2.4,0
+35060611,Language,8006,Official language minority (percentage),7.6,4.8,8
+35060612,Language,7002,  French only,0,0,0
+35060612,Language,8006,Official language minority (percentage),5.1,4.2,6
+35060613,Language,7002,  French only,0.6,0,1.2
+35060613,Language,8006,Official language minority (percentage),9.4,9.2,9.5
+35060616,Language,7002,  French only,1.7,0,1.5
+35060616,Language,8006,Official language minority (percentage),11,9.8,12.1
+35060617,Language,7002,  French only,0.9,0,0
+35060617,Language,8006,Official language minority (percentage),7.9,7.8,7.8
+35060618,Language,7002,  French only,0,0,0
+35060618,Language,8006,Official language minority (percentage),8.2,8.3,8.3
+35060619,Language,7002,  French only,0,0,1.2
+35060619,Language,8006,Official language minority (percentage),7.3,7.3,8.5
+35060620,Language,7002,  French only,0,0,0
+35060620,Language,8006,Official language minority (percentage),7.9,7.9,7.9
+35060622,Language,7002,  French only,0,0,0
+35060622,Language,8006,Official language minority (percentage),12,14.3,9.5
+35060623,Language,7002,  French only,0.6,0,0
+35060623,Language,8006,Official language minority (percentage),7,4.9,7.7
+35060624,Language,7002,  French only,0.8,0,0
+35060624,Language,8006,Official language minority (percentage),5.8,3.6,6.2
+35060625,Language,7002,  French only,1.2,0,2.3
+35060625,Language,8006,Official language minority (percentage),7,4.7,9.3
+35060634,Language,7002,  French only,3.1,3.2,3
+35060634,Language,8006,Official language minority (percentage),16.3,15.9,18.2
+35060638,Language,7002,  French only,0.6,1.2,1.3
+35060638,Language,8006,Official language minority (percentage),10.6,9.5,11.8
+35060641,Language,7002,  French only,1.3,0,2.7
+35060641,Language,8006,Official language minority (percentage),9.3,10.8,7.9
+35060642,Language,7002,  French only,0.6,0,0
+35060642,Language,8006,Official language minority (percentage),9,8.8,9.2
+35060643,Language,7002,  French only,0,0,0
+35060643,Language,8006,Official language minority (percentage),7.5,7.7,11.1
+35060644,Language,7002,  French only,0,0,0
+35060644,Language,8006,Official language minority (percentage),6.7,6.3,10.7
+35060645,Language,7002,  French only,0.6,0.8,1
+35060645,Language,8006,Official language minority (percentage),12.8,11.5,13.1
+35060646,Language,7002,  French only,0,0,0
+35060646,Language,8006,Official language minority (percentage),11.9,12.2,11.3
+35060647,Language,7002,  French only,1.6,3.1,0
+35060647,Language,8006,Official language minority (percentage),9.4,9.7,9.1
+35060648,Language,7002,  French only,1.3,2.4,2.8
+35060648,Language,8006,Official language minority (percentage),7.6,7.1,8.3
+35060649,Language,7002,  French only,8.5,6.7,11
+35060649,Language,8006,Official language minority (percentage),27.1,24.7,29.3
+35060653,Language,7002,  French only,0,0,0
+35060653,Language,8006,Official language minority (percentage),6.6,9.3,4.2
+35060654,Language,7002,  French only,0,0,0
+35060654,Language,8006,Official language minority (percentage),6.3,8.3,6
+35060655,Language,7002,  French only,0,0,0
+35060655,Language,8006,Official language minority (percentage),7.1,3,5.3
+35060656,Language,7002,  French only,0,0,0
+35060656,Language,8006,Official language minority (percentage),7.2,5.7,8.5
+35060657,Language,7002,  French only,1.1,0,0
+35060657,Language,8006,Official language minority (percentage),6.4,4.3,8.3
+35060662,Language,7002,  French only,0.9,0,0
+35060662,Language,8006,Official language minority (percentage),7.7,5.4,8.2
+35060663,Language,7002,  French only,1,0.8,1.2
+35060663,Language,8006,Official language minority (percentage),8.8,9.9,8.5
+35060668,Language,7002,  French only,0,0,0
+35060668,Language,8006,Official language minority (percentage),5.7,7,4.7
+35060669,Language,7002,  French only,0.8,0,0
+35060669,Language,8006,Official language minority (percentage),6.5,6.3,6.7
+35060670,Language,7002,  French only,0,0,0
+35060670,Language,8006,Official language minority (percentage),3.4,2.3,2.3
+35060671,Language,7002,  French only,0,0,0
+35060671,Language,8006,Official language minority (percentage),2.4,2.4,2.4
+35060672,Language,7002,  French only,0,0,0
+35060672,Language,8006,Official language minority (percentage),5.2,6,4.3
+35060673,Language,7002,  French only,0,0,0
+35060673,Language,8006,Official language minority (percentage),4.5,4.5,4.5
+35060678,Language,7002,  French only,0.2,0,0.3
+35060678,Language,8006,Official language minority (percentage),8.3,8.1,8.3
+35060679,Language,7002,  French only,0.3,0.3,0.3
+35060679,Language,8006,Official language minority (percentage),8.2,8.1,7.9
+35060680,Language,7002,  French only,0,0,0
+35060680,Language,8006,Official language minority (percentage),4.8,6.5,6.5
+35060681,Language,7002,  French only,0,0,0
+35060681,Language,8006,Official language minority (percentage),8,8.2,7.9
+35060682,Language,7002,  French only,0,0,0
+35060682,Language,8006,Official language minority (percentage),8.8,6.8,10.6
+35060684,Language,7002,  French only,0,0,0
+35060684,Language,8006,Official language minority (percentage),4.4,7,3.5
+35060685,Language,7002,  French only,0.8,0,1.6
+35060685,Language,8006,Official language minority (percentage),4.8,3.2,4.8
+35060686,Language,7002,  French only,0,0,0
+35060686,Language,8006,Official language minority (percentage),2.7,1.9,1.8
+35060687,Language,7002,  French only,0,0,0
+35060687,Language,8006,Official language minority (percentage),5.3,5.3,7.9
+35060688,Language,7002,  French only,0,0,0
+35060688,Language,8006,Official language minority (percentage),6,6.8,5.4
+35060689,Language,7002,  French only,0,0,0
+35060689,Language,8006,Official language minority (percentage),7.6,5.3,9.5
+35060690,Language,7002,  French only,0,0,0
+35060690,Language,8006,Official language minority (percentage),2.4,0,4.8
+35060695,Language,7002,  French only,0,0,0
+35060695,Language,8006,Official language minority (percentage),7.1,8.1,9.1
+35060696,Language,7002,  French only,0,0,0
+35060696,Language,8006,Official language minority (percentage),4.1,2.2,5.7
+35060697,Language,7002,  French only,0,0,0
+35060697,Language,8006,Official language minority (percentage),3.6,3.8,3.6
+35060698,Language,7002,  French only,0,0,0
+35060698,Language,8006,Official language minority (percentage),8.9,8.2,7.8
+35060700,Language,7002,  French only,0.5,0.5,0
+35060700,Language,8006,Official language minority (percentage),9.1,8.6,9.7
+35060701,Language,7002,  French only,0.3,0.2,0.4
+35060701,Language,8006,Official language minority (percentage),9.6,9.3,9.7
+35060702,Language,7002,  French only,0,0,0
+35060702,Language,8006,Official language minority (percentage),7.2,4.9,7.1
+35060703,Language,7002,  French only,0,0,0
+35060703,Language,8006,Official language minority (percentage),7.5,8.7,6.3
+35060704,Language,7002,  French only,0.5,0,0.9
+35060704,Language,8006,Official language minority (percentage),7.7,7.5,8.7
+35060706,Language,7002,  French only,0,0,0
+35060706,Language,8006,Official language minority (percentage),6.6,8.9,6.7
+35060707,Language,7002,  French only,0.8,0,0
+35060707,Language,8006,Official language minority (percentage),7.1,6.5,6.3
+35060708,Language,7002,  French only,0,0,0
+35060708,Language,8006,Official language minority (percentage),5.4,2.6,8.6
+35060709,Language,7002,  French only,1.4,0,0
+35060709,Language,8006,Official language minority (percentage),4.2,2.9,2.7
+35060710,Language,7002,  French only,0,0,0
+35060710,Language,8006,Official language minority (percentage),7.6,6.1,9.4
+35060711,Language,7002,  French only,0.6,1.1,0
+35060711,Language,8006,Official language minority (percentage),6.1,5.7,5.4
+35060712,Language,7002,  French only,0,0,0
+35060712,Language,8006,Official language minority (percentage),8.5,8.6,8.5
+35060713,Language,7002,  French only,0,1.9,1.9
+35060713,Language,8006,Official language minority (percentage),7.6,7.5,7.7
+35060717,Language,7002,  French only,1.9,1,1.8
+35060717,Language,8006,Official language minority (percentage),9.8,9.9,9.7
+35060718,Language,7002,  French only,1.2,0,2.2
+35060718,Language,8006,Official language minority (percentage),8.1,9.8,6.7
+35060719,Language,7002,  French only,0.8,1.7,1.7
+35060719,Language,8006,Official language minority (percentage),8.5,8.6,10
+35060720,Language,7002,  French only,0,0,0
+35060720,Language,8006,Official language minority (percentage),12.2,8.3,15.4
+35060721,Language,7002,  French only,0,0,0
+35060721,Language,8006,Official language minority (percentage),5.1,4.8,5.4
+35060722,Language,7002,  French only,0.9,0,0
+35060722,Language,8006,Official language minority (percentage),10.5,8.6,10.7
+35060723,Language,7002,  French only,0,0,0
+35060723,Language,8006,Official language minority (percentage),6.8,6.1,7.4
+35060724,Language,7002,  French only,1.1,0,0
+35060724,Language,8006,Official language minority (percentage),6.8,4.4,7
+35060725,Language,7002,  French only,0,0,0
+35060725,Language,8006,Official language minority (percentage),5.3,4.1,6.6
+35060726,Language,7002,  French only,0,0,0
+35060726,Language,8006,Official language minority (percentage),4.4,2.9,2.9
+35060728,Language,7002,  French only,0,0,0
+35060728,Language,8006,Official language minority (percentage),5.3,5.7,4.7
+35060729,Language,7002,  French only,0,0,1.8
+35060729,Language,8006,Official language minority (percentage),5.6,6,5.4
+35060731,Language,7002,  French only,1.5,0,0
+35060731,Language,8006,Official language minority (percentage),9.1,8.8,9.4
+35060734,Language,7002,  French only,1.8,1.8,1.7
+35060734,Language,8006,Official language minority (percentage),7,7.1,8.5
+35060735,Language,7002,  French only,0,0.7,0
+35060735,Language,8006,Official language minority (percentage),6.1,4.9,6.6
+35060736,Language,7002,  French only,0,0,0
+35060736,Language,8006,Official language minority (percentage),4.4,3.8,5.1
+35060737,Language,7002,  French only,0.7,0,0
+35060737,Language,8006,Official language minority (percentage),5.7,4.5,6.8
+35060738,Language,7002,  French only,1.1,0,0
+35060738,Language,8006,Official language minority (percentage),5.4,6.7,2
+35060739,Language,7002,  French only,0,0,0
+35060739,Language,8006,Official language minority (percentage),6.4,9.3,5.9
+35060740,Language,7002,  French only,2.7,3,2.4
+35060740,Language,8006,Official language minority (percentage),10.8,12.1,12.2
+35060741,Language,7002,  French only,0,0,0
+35060741,Language,8006,Official language minority (percentage),2.7,5,0
+35060742,Language,7002,  French only,0,0,0
+35060742,Language,8006,Official language minority (percentage),8,7.8,6.8
+35060743,Language,7002,  French only,1,0,0
+35060743,Language,8006,Official language minority (percentage),6.2,6.3,6.3
+35060744,Language,7002,  French only,0,0,0
+35060744,Language,8006,Official language minority (percentage),7.2,9.3,5.3
+35060745,Language,7002,  French only,1.3,0,0
+35060745,Language,8006,Official language minority (percentage),7.6,5.1,10
+35060746,Language,7002,  French only,0,0,0
+35060746,Language,8006,Official language minority (percentage),5.6,2.9,7.9
+35060747,Language,7002,  French only,0.3,0,0
+35060747,Language,8006,Official language minority (percentage),7.5,6.8,8.2
+35060748,Language,7002,  French only,0,0,0
+35060748,Language,8006,Official language minority (percentage),7.9,6.3,7.5
+35060749,Language,7002,  French only,0,0,2.3
+35060749,Language,8006,Official language minority (percentage),10.7,9.8,11.6
+35060750,Language,7002,  French only,0,0,0
+35060750,Language,8006,Official language minority (percentage),6.7,4.4,6.7
+35060751,Language,7002,  French only,0,0,0
+35060751,Language,8006,Official language minority (percentage),6.7,4.5,10.6
+35060752,Language,7002,  French only,0,0,0
+35060752,Language,8006,Official language minority (percentage),6.2,4.7,5.4
+35060753,Language,7002,  French only,0.7,0,1.3
+35060753,Language,8006,Official language minority (percentage),5.9,5.6,6.3
+35060754,Language,7002,  French only,0,0,0
+35060754,Language,8006,Official language minority (percentage),6.8,7.2,6.4
+35060755,Language,7002,  French only,0.9,0,1.9
+35060755,Language,8006,Official language minority (percentage),8.3,5.4,9.3
+35060758,Language,7002,  French only,0,0,0
+35060758,Language,8006,Official language minority (percentage),8.2,9.1,7.4
+35060759,Language,7002,  French only,0,0,1.9
+35060759,Language,8006,Official language minority (percentage),10,6.4,11.3
+35060760,Language,7002,  French only,0,0,0
+35060760,Language,8006,Official language minority (percentage),8.6,10,9.1
+35060761,Language,7002,  French only,0,0,0
+35060761,Language,8006,Official language minority (percentage),7.3,4.8,10
+35060762,Language,7002,  French only,0,0,0
+35060762,Language,8006,Official language minority (percentage),7.4,4.5,7.8
+35060763,Language,7002,  French only,0,0,0
+35060763,Language,8006,Official language minority (percentage),6,9.1,5.9
+35060764,Language,7002,  French only,0,0,0
+35060764,Language,8006,Official language minority (percentage),6.8,8,5.4
+35060765,Language,7002,  French only,1,1,1
+35060765,Language,8006,Official language minority (percentage),11,10.4,9.6
+35060766,Language,7002,  French only,0,0,0
+35060766,Language,8006,Official language minority (percentage),6.2,4.3,7.8
+35060767,Language,7002,  French only,0.8,1.5,0
+35060767,Language,8006,Official language minority (percentage),7.6,6.1,7.6
+35060768,Language,7002,  French only,0.9,0,1.6
+35060768,Language,8006,Official language minority (percentage),8.8,9.3,8.3
+35060771,Language,7002,  French only,0.3,0,0.5
+35060771,Language,8006,Official language minority (percentage),9,8.6,8.8
+35060773,Language,7002,  French only,0.6,0,1.2
+35060773,Language,8006,Official language minority (percentage),8.5,8.6,9.6
+35060774,Language,7002,  French only,0,0,0
+35060774,Language,8006,Official language minority (percentage),7.8,7.5,9.8
+35060775,Language,7002,  French only,0,0,0
+35060775,Language,8006,Official language minority (percentage),6.3,5,8.9
+35060777,Language,7002,  French only,0,0,0
+35060777,Language,8006,Official language minority (percentage),6.6,7.9,5.3
+35060778,Language,7002,  French only,0,0,0
+35060778,Language,8006,Official language minority (percentage),6.1,6.8,5.3
+35060779,Language,7002,  French only,1.2,0,0
+35060779,Language,8006,Official language minority (percentage),6.9,7.1,4.7
+35060780,Language,7002,  French only,1.2,2.3,2.4
+35060780,Language,8006,Official language minority (percentage),6.9,4.4,7.3
+35060781,Language,7002,  French only,0,0,0
+35060781,Language,8006,Official language minority (percentage),4.4,2.6,4.9
+35060782,Language,7002,  French only,0,0,0
+35060782,Language,8006,Official language minority (percentage),5.7,2.3,7
+35060783,Language,7002,  French only,0,0,0
+35060783,Language,8006,Official language minority (percentage),6.7,5.9,7.3
+35060784,Language,7002,  French only,0,0,0
+35060784,Language,8006,Official language minority (percentage),3.8,5.1,2.6
+35060785,Language,7002,  French only,0,0,0
+35060785,Language,8006,Official language minority (percentage),6.4,6.7,8.3
+35060786,Language,7002,  French only,0,0,0
+35060786,Language,8006,Official language minority (percentage),9.3,7.4,7.1
+35060787,Language,7002,  French only,0,0,0
+35060787,Language,8006,Official language minority (percentage),8.8,7.1,10.2
+35060789,Language,7002,  French only,0,0,0
+35060789,Language,8006,Official language minority (percentage),3.5,0,3.7
+35060790,Language,7002,  French only,0,0,0
+35060790,Language,8006,Official language minority (percentage),9.5,5.9,13.3
+35060792,Language,7002,  French only,0,0,0
+35060792,Language,8006,Official language minority (percentage),8.5,7.7,9.3
+35060793,Language,7002,  French only,0,0,0
+35060793,Language,8006,Official language minority (percentage),9.2,9.4,8.8
+35060794,Language,7002,  French only,0,0,0
+35060794,Language,8006,Official language minority (percentage),4.7,2.3,4.8
+35060795,Language,7002,  French only,0,0,0
+35060795,Language,8006,Official language minority (percentage),5.1,5,5
+35060796,Language,7002,  French only,1.1,0,2.2
+35060796,Language,8006,Official language minority (percentage),8.9,9.1,8.5
+35060797,Language,7002,  French only,1.4,2.9,2.8
+35060797,Language,8006,Official language minority (percentage),12.5,8.3,13.5
+35060798,Language,7002,  French only,0,0,0
+35060798,Language,8006,Official language minority (percentage),9.1,8.7,7.1
+35060799,Language,7002,  French only,1,0,0
+35060799,Language,8006,Official language minority (percentage),9.8,10.2,7.5
+35060800,Language,7002,  French only,1.5,0,0
+35060800,Language,8006,Official language minority (percentage),7.6,3.3,8.6
+35060801,Language,7002,  French only,1.1,0,0
+35060801,Language,8006,Official language minority (percentage),8.5,6.7,10.2
+35060802,Language,7002,  French only,0,0,0
+35060802,Language,8006,Official language minority (percentage),10.6,9.4,9.1
+35060815,Language,7002,  French only,0,0,0
+35060815,Language,8006,Official language minority (percentage),6.9,6.1,7.5
+35060816,Language,7002,  French only,0,0,0
+35060816,Language,8006,Official language minority (percentage),5.9,7.7,4
+35060817,Language,7002,  French only,1,0,0
+35060817,Language,8006,Official language minority (percentage),9.7,6,13.2
+35060818,Language,7002,  French only,0,0,0
+35060818,Language,8006,Official language minority (percentage),6.6,6.5,6.7
+35060819,Language,7002,  French only,0,0,0
+35060819,Language,8006,Official language minority (percentage),7.7,6.1,9.7
+35060820,Language,7002,  French only,0,0,0
+35060820,Language,8006,Official language minority (percentage),6.3,7.5,5.1
+35060823,Language,7002,  French only,0,2.4,2.9
+35060823,Language,8006,Official language minority (percentage),11.8,11.9,11.4
+35060833,Language,7002,  French only,0,0,0
+35060833,Language,8006,Official language minority (percentage),7.7,6.4,9.1
+35060834,Language,7002,  French only,0,0,0
+35060834,Language,8006,Official language minority (percentage),6.2,4.1,8.3
+35060835,Language,7002,  French only,0,0,0
+35060835,Language,8006,Official language minority (percentage),5.5,4.3,6.7
+35060836,Language,7002,  French only,0,0,0
+35060836,Language,8006,Official language minority (percentage),5.7,2.6,6
+35060837,Language,7002,  French only,0,0,0
+35060837,Language,8006,Official language minority (percentage),8.1,5.7,8.8
+35060838,Language,7002,  French only,0,1.2,0
+35060838,Language,8006,Official language minority (percentage),10.3,9.3,11.4
+35060840,Language,7002,  French only,0,0,1.4
+35060840,Language,8006,Official language minority (percentage),6.3,5.6,8.3
+35060841,Language,7002,  French only,0,0,0
+35060841,Language,8006,Official language minority (percentage),5.1,5.3,6.6
+35060842,Language,7002,  French only,0,0,0
+35060842,Language,8006,Official language minority (percentage),5.3,5.3,5.4
+35060843,Language,7002,  French only,0,0,0
+35060843,Language,8006,Official language minority (percentage),6.8,6.3,7.5
+35060844,Language,7002,  French only,0.9,1.8,1.8
+35060844,Language,8006,Official language minority (percentage),5.4,3.6,7.3
+35060845,Language,7002,  French only,0,0,0
+35060845,Language,8006,Official language minority (percentage),6.9,5.5,8.3
+35060860,Language,7002,  French only,0.7,1.3,1.4
+35060860,Language,8006,Official language minority (percentage),13,12.2,12.7
+35060861,Language,7002,  French only,0,0,0
+35060861,Language,8006,Official language minority (percentage),10.3,12.2,8.5
+35060862,Language,7002,  French only,0.7,1.4,1.2
+35060862,Language,8006,Official language minority (percentage),11.9,10,13.6
+35060864,Language,7002,  French only,1,2.1,2
+35060864,Language,8006,Official language minority (percentage),12.1,12.5,14
+35060865,Language,7002,  French only,0.5,1,0
+35060865,Language,8006,Official language minority (percentage),13.9,13.1,15.4
+35060866,Language,7002,  French only,2.5,1.8,3.9
+35060866,Language,8006,Official language minority (percentage),15.3,14.5,15.7
+35060867,Language,7002,  French only,3.1,2.3,3.8
+35060867,Language,8006,Official language minority (percentage),14.4,15.9,13.2
+35060868,Language,7002,  French only,1.2,2.3,0
+35060868,Language,8006,Official language minority (percentage),12,11.6,15
+35060869,Language,7002,  French only,0,0,2.9
+35060869,Language,8006,Official language minority (percentage),11.1,8.1,11.4
+35060870,Language,7002,  French only,1.1,2.3,2
+35060870,Language,8006,Official language minority (percentage),12.9,11.4,16.3
+35060871,Language,7002,  French only,0,0,0
+35060871,Language,8006,Official language minority (percentage),6.2,3.1,9.1
+35060872,Language,7002,  French only,0.4,0,0.8
+35060872,Language,8006,Official language minority (percentage),11,7.9,11.7
+35060874,Language,7002,  French only,0,0,0
+35060874,Language,8006,Official language minority (percentage),13.3,13.3,10
+35060875,Language,7002,  French only,0.7,0,1.4
+35060875,Language,8006,Official language minority (percentage),8.5,7.2,9.9
+35060876,Language,7002,  French only,1.3,1.4,1.3
+35060876,Language,8006,Official language minority (percentage),10.7,9.9,12.7
+35060877,Language,7002,  French only,0,0,0
+35060877,Language,8006,Official language minority (percentage),10.1,9.1,11.1
+35060885,Language,7002,  French only,4.7,2.9,6.2
+35060885,Language,8006,Official language minority (percentage),24.8,19.1,29.6
+35060888,Language,7002,  French only,0,0,0
+35060888,Language,8006,Official language minority (percentage),11.5,9.8,11.1
+35060889,Language,7002,  French only,0,0,0
+35060889,Language,8006,Official language minority (percentage),6.5,6.5,10
+35060890,Language,7002,  French only,0.7,0.5,0.8
+35060890,Language,8006,Official language minority (percentage),12,11.3,12.2
+35060891,Language,7002,  French only,0.9,0,1.8
+35060891,Language,8006,Official language minority (percentage),10.7,10.3,10.9
+35060892,Language,7002,  French only,6.8,7.1,8.9
+35060892,Language,8006,Official language minority (percentage),23.9,23.8,24.4
+35060893,Language,7002,  French only,3.8,3.2,4.3
+35060893,Language,8006,Official language minority (percentage),20.1,19.6,19.8
+35060894,Language,7002,  French only,3.3,2.9,3.7
+35060894,Language,8006,Official language minority (percentage),16.7,15.5,17.8
+35060895,Language,7002,  French only,11.7,7.6,15
+35060895,Language,8006,Official language minority (percentage),28.3,25.3,31
+35060898,Language,7002,  French only,2.9,1.5,2.8
+35060898,Language,8006,Official language minority (percentage),11.3,11.6,11.1
+35060899,Language,7002,  French only,2.3,1.9,2.6
+35060899,Language,8006,Official language minority (percentage),13.4,12.3,14.5
+35060902,Language,7002,  French only,4.1,2.9,2.6
+35060902,Language,8006,Official language minority (percentage),20.3,20,17.9
+35060903,Language,7002,  French only,1.3,0,2.5
+35060903,Language,8006,Official language minority (percentage),19.5,18.9,20.5
+35060904,Language,7002,  French only,2.2,2.3,2.2
+35060904,Language,8006,Official language minority (percentage),15.6,13.6,17.4
+35060905,Language,7002,  French only,0.8,0,1.6
+35060905,Language,8006,Official language minority (percentage),14.8,12.1,15.6
+35060906,Language,7002,  French only,0,0,0
+35060906,Language,8006,Official language minority (percentage),16,10.8,21.6
+35060907,Language,7002,  French only,1.3,0,0
+35060907,Language,8006,Official language minority (percentage),12.8,12.2,16.2
+35060908,Language,7002,  French only,0,0,0
+35060908,Language,8006,Official language minority (percentage),17.8,13.9,21.6
+35060909,Language,7002,  French only,1.4,0,2.8
+35060909,Language,8006,Official language minority (percentage),21.9,19.4,25
+35060910,Language,7002,  French only,0.8,1.5,0
+35060910,Language,8006,Official language minority (percentage),12.9,11.9,13.8
+35060911,Language,7002,  French only,0.8,1,0.7
+35060911,Language,8006,Official language minority (percentage),17.8,14.3,19.9
+35060912,Language,7002,  French only,0,0,2.3
+35060912,Language,8006,Official language minority (percentage),15.1,14,15.9
+35060913,Language,7002,  French only,1.2,2.3,0
+35060913,Language,8006,Official language minority (percentage),17.9,18.6,20
+35060914,Language,7002,  French only,1.2,0,0
+35060914,Language,8006,Official language minority (percentage),14.1,14.6,13.6
+35060915,Language,7002,  French only,1,0,2
+35060915,Language,8006,Official language minority (percentage),13.7,16,13.5
+35060916,Language,7002,  French only,1.1,0,4.3
+35060916,Language,8006,Official language minority (percentage),18.2,16.7,19.1
+35060917,Language,7002,  French only,0,0,0
+35060917,Language,8006,Official language minority (percentage),15,15.4,15.4
+35060918,Language,7002,  French only,3.9,1.6,6.1
+35060918,Language,8006,Official language minority (percentage),22.5,17.5,27.3
+35060921,Language,7002,  French only,1.4,0,2.4
+35060921,Language,8006,Official language minority (percentage),14.7,14.7,15
+35060922,Language,7002,  French only,2.3,2.3,2.8
+35060922,Language,8006,Official language minority (percentage),21.6,20.7,23
+35060923,Language,7002,  French only,2.9,5.4,0
+35060923,Language,8006,Official language minority (percentage),24.3,24.3,27.3
+35060924,Language,7002,  French only,5.7,7.1,8
+35060924,Language,8006,Official language minority (percentage),22.6,21.4,26.9
+35060925,Language,7002,  French only,9.2,7.2,10.8
+35060925,Language,8006,Official language minority (percentage),31.6,26.1,34.9
+35060926,Language,7002,  French only,1,2.1,2
+35060926,Language,8006,Official language minority (percentage),19.2,19.1,19.6
+35060929,Language,7002,  French only,2.5,0,2.6
+35060929,Language,8006,Official language minority (percentage),26.6,24.4,28.9
+35060930,Language,7002,  French only,3.2,2.3,6
+35060930,Language,8006,Official language minority (percentage),17.4,14,18.4
+35060931,Language,7002,  French only,2.6,2.5,0
+35060931,Language,8006,Official language minority (percentage),19.7,17.5,22.2
+35060934,Language,7002,  French only,1.6,0.7,2.3
+35060934,Language,8006,Official language minority (percentage),19.9,19.3,20.3
+35060935,Language,7002,  French only,1,0,0
+35060935,Language,8006,Official language minority (percentage),19.6,20.8,16
+35060936,Language,7002,  French only,1.8,1.9,1.8
+35060936,Language,8006,Official language minority (percentage),15.6,15.1,16.4
+35060937,Language,7002,  French only,3,2,4
+35060937,Language,8006,Official language minority (percentage),21.8,22,24
+35060938,Language,7002,  French only,1,1.1,1
+35060938,Language,8006,Official language minority (percentage),12.6,12.3,12.8
+35060939,Language,7002,  French only,0,0,0
+35060939,Language,8006,Official language minority (percentage),12.4,11.8,11.8
+35060940,Language,7002,  French only,0,0,3.6
+35060940,Language,8006,Official language minority (percentage),14,10.3,14.3
+35060941,Language,7002,  French only,2.3,1.7,2.8
+35060941,Language,8006,Official language minority (percentage),18.8,17.2,18.6
+35060942,Language,7002,  French only,1.7,1.2,2.2
+35060942,Language,8006,Official language minority (percentage),15,12,17.8
+35060944,Language,7002,  French only,0.7,0,0
+35060944,Language,8006,Official language minority (percentage),12,10.4,14.9
+35060945,Language,7002,  French only,0,0,0
+35060945,Language,8006,Official language minority (percentage),14.4,13,15.9
+35060953,Language,7002,  French only,1.4,0,1.3
+35060953,Language,8006,Official language minority (percentage),16.4,15.9,16.9
+35060954,Language,7002,  French only,1.3,0,2.4
+35060954,Language,8006,Official language minority (percentage),11.7,14.3,11.9
+35060955,Language,7002,  French only,1.3,1.4,1.3
+35060955,Language,8006,Official language minority (percentage),13.8,13.4,14.8
+35060956,Language,7002,  French only,2.3,1.6,3.1
+35060956,Language,8006,Official language minority (percentage),14.1,12.7,16.9
+35060957,Language,7002,  French only,7.3,6.7,7.8
+35060957,Language,8006,Official language minority (percentage),26.6,25.2,27.9
+35060961,Language,7002,  French only,0.8,0,1.4
+35060961,Language,8006,Official language minority (percentage),20,18.6,20.8
+35060968,Language,7002,  French only,1.6,2,1.4
+35060968,Language,8006,Official language minority (percentage),25.6,23.5,26
+35060970,Language,7002,  French only,2,2,2.9
+35060970,Language,8006,Official language minority (percentage),16,16.2,16.4
+35060972,Language,7002,  French only,0.8,0.7,0.9
+35060972,Language,8006,Official language minority (percentage),14,11.4,16.5
+35060973,Language,7002,  French only,1.1,0,1
+35060973,Language,8006,Official language minority (percentage),31.7,31.4,33.3
+35060974,Language,7002,  French only,2.2,2.2,2.2
+35060974,Language,8006,Official language minority (percentage),32.3,33.3,29.8
+35060975,Language,7002,  French only,5,4.7,5.3
+35060975,Language,8006,Official language minority (percentage),29.4,27.9,30.9
+35060976,Language,7002,  French only,6.2,5.7,5
+35060976,Language,8006,Official language minority (percentage),34.5,30.2,40
+35060977,Language,7002,  French only,3.1,4.3,3.9
+35060977,Language,8006,Official language minority (percentage),27.6,29.8,29.4
+35060978,Language,7002,  French only,5,4.2,4.5
+35060978,Language,8006,Official language minority (percentage),35.3,36.1,35.8
+35060979,Language,7002,  French only,6,4.5,8
+35060979,Language,8006,Official language minority (percentage),29.9,24.2,38
+35060984,Language,7002,  French only,6.9,7.3,4.3
+35060984,Language,8006,Official language minority (percentage),33.7,34.5,34.8
+35060985,Language,7002,  French only,5.4,2.2,8.7
+35060985,Language,8006,Official language minority (percentage),26.1,22.2,30.4
+35060986,Language,7002,  French only,4,4.1,4
+35060986,Language,8006,Official language minority (percentage),27.3,26,28
+35060987,Language,7002,  French only,5.1,4.5,7.3
+35060987,Language,8006,Official language minority (percentage),32.7,32.6,33.3
+35060988,Language,7002,  French only,3.6,4.3,4.3
+35060988,Language,8006,Official language minority (percentage),33.8,33.8,34.3
+35060989,Language,7002,  French only,6.3,7,7.4
+35060989,Language,8006,Official language minority (percentage),31.5,32.8,30.2
+35060990,Language,7002,  French only,8.5,6.7,12
+35060990,Language,8006,Official language minority (percentage),34.7,35.6,36
+35060991,Language,7002,  French only,0.8,1.8,1.5
+35060991,Language,8006,Official language minority (percentage),24.8,25.5,26.2
+35061001,Language,7002,  French only,3.6,4,4.4
+35061001,Language,8006,Official language minority (percentage),31.5,32,31.1
+35061018,Language,7002,  French only,1.1,0,2
+35061018,Language,8006,Official language minority (percentage),26.3,26.1,24.5
+35061019,Language,7002,  French only,3.6,2.3,5
+35061019,Language,8006,Official language minority (percentage),31,30.2,34.1
+35061020,Language,7002,  French only,2.2,1.3,3.9
+35061020,Language,8006,Official language minority (percentage),37.4,30.8,42.2
+35061026,Language,7002,  French only,2.7,2.9,2.4
+35061026,Language,8006,Official language minority (percentage),28,26.5,29.3
+35061027,Language,7002,  French only,1.9,0,0
+35061027,Language,8006,Official language minority (percentage),24.5,26.1,24.1
+35061030,Language,7002,  French only,1.9,0,1.8
+35061030,Language,8006,Official language minority (percentage),25,22.4,27.3
+35061031,Language,7002,  French only,1.4,0,2.9
+35061031,Language,8006,Official language minority (percentage),30.2,26.1,32.9
+35061033,Language,7002,  French only,1,0,2
+35061033,Language,8006,Official language minority (percentage),17.3,15.1,19.6
+35061034,Language,7002,  French only,1.1,0,0
+35061034,Language,8006,Official language minority (percentage),12.6,11.4,12
+35061035,Language,7002,  French only,2.3,2.3,2.3
+35061035,Language,8006,Official language minority (percentage),18.2,15.9,17.8
+35061036,Language,7002,  French only,0.8,0,1.6
+35061036,Language,8006,Official language minority (percentage),13.5,15.6,11.3
+35061039,Language,7002,  French only,0.8,1.5,0
+35061039,Language,8006,Official language minority (percentage),12.6,12.1,13.1
+35061041,Language,7002,  French only,3.4,2.2,2.8
+35061041,Language,8006,Official language minority (percentage),15.3,15.2,15.5
+35061042,Language,7002,  French only,1,0,1.7
+35061042,Language,8006,Official language minority (percentage),7.6,4.3,8.5
+35061043,Language,7002,  French only,0,0,0
+35061043,Language,8006,Official language minority (percentage),9.2,8,10.2
+35061044,Language,7002,  French only,0,0,2.2
+35061044,Language,8006,Official language minority (percentage),11.6,12.5,13
+35061045,Language,7002,  French only,0,0,0
+35061045,Language,8006,Official language minority (percentage),10.6,8.5,12.8
+35061046,Language,7002,  French only,0,0,1.9
+35061046,Language,8006,Official language minority (percentage),7.8,8.2,7.5
+35061047,Language,7002,  French only,0.7,0,1.4
+35061047,Language,8006,Official language minority (percentage),11.6,11.1,11
+35061051,Language,7002,  French only,0,2,2
+35061051,Language,8006,Official language minority (percentage),13,14,10
+35061053,Language,7002,  French only,0.9,0,0
+35061053,Language,8006,Official language minority (percentage),15.9,15.3,17
+35061054,Language,7002,  French only,1.2,2.5,2.3
+35061054,Language,8006,Official language minority (percentage),22.6,22,22.7
+35061055,Language,7002,  French only,2.7,3,2.4
+35061055,Language,8006,Official language minority (percentage),28.2,25.4,30.5
+35061056,Language,7002,  French only,1.4,0,1.4
+35061056,Language,8006,Official language minority (percentage),11.3,12.3,10.1
+35061057,Language,7002,  French only,0,4.5,0
+35061057,Language,8006,Official language minority (percentage),15.4,18.2,11.8
+35061067,Language,7002,  French only,0.9,0,0
+35061067,Language,8006,Official language minority (percentage),5.6,6,5.3
+35061069,Language,7002,  French only,0,0,0
+35061069,Language,8006,Official language minority (percentage),11.8,8.8,14.7
+35061070,Language,7002,  French only,0,0,0
+35061070,Language,8006,Official language minority (percentage),9.5,8.8,10
+35061071,Language,7002,  French only,0,1.9,0
+35061071,Language,8006,Official language minority (percentage),10.8,11.5,12.1
+35061072,Language,7002,  French only,1.1,2.3,2.1
+35061072,Language,8006,Official language minority (percentage),17.4,15.9,16.7
+35061073,Language,7002,  French only,1.1,0,2.2
+35061073,Language,8006,Official language minority (percentage),12.6,16.7,11.1
+35061074,Language,7002,  French only,1.1,0,0
+35061074,Language,8006,Official language minority (percentage),10.9,12.8,6.7
+35061075,Language,7002,  French only,4.7,2.5,6.7
+35061075,Language,8006,Official language minority (percentage),18.6,14.6,22.2
+35061076,Language,7002,  French only,1.1,0,0
+35061076,Language,8006,Official language minority (percentage),10.5,10.9,10.2
+35061077,Language,7002,  French only,0,0,0
+35061077,Language,8006,Official language minority (percentage),6.4,7.8,5.2
+35061078,Language,7002,  French only,4.8,5.2,6.1
+35061078,Language,8006,Official language minority (percentage),17.7,16.9,18.2
+35061079,Language,7002,  French only,1,0,2.1
+35061079,Language,8006,Official language minority (percentage),12.2,9.8,12.5
+35061080,Language,7002,  French only,3.8,3.8,5.9
+35061080,Language,8006,Official language minority (percentage),18.3,15.1,21.6
+35061081,Language,7002,  French only,9,9.2,10
+35061081,Language,8006,Official language minority (percentage),27.6,25.8,27.8
+35061082,Language,7002,  French only,3.1,2,4.2
+35061082,Language,8006,Official language minority (percentage),14.4,12.2,16.7
+35061083,Language,7002,  French only,0.8,1.8,1.6
+35061083,Language,8006,Official language minority (percentage),9.2,8.8,11.1
+35061084,Language,7002,  French only,3,4.1,3.8
+35061084,Language,8006,Official language minority (percentage),16,12.2,17.3
+35061085,Language,7002,  French only,1.3,0,2.4
+35061085,Language,8006,Official language minority (percentage),8.9,8.1,12.2
+35061086,Language,7002,  French only,0.7,1.6,1.3
+35061086,Language,8006,Official language minority (percentage),12.1,9.5,12.8
+35061087,Language,7002,  French only,0,0,0
+35061087,Language,8006,Official language minority (percentage),6.3,5.7,8.3
+35061089,Language,7002,  French only,0.7,0,0
+35061089,Language,8006,Official language minority (percentage),6.7,6.1,7.4
+35061090,Language,7002,  French only,0,0,0
+35061090,Language,8006,Official language minority (percentage),8,11.6,6.7
+35061091,Language,7002,  French only,0,0,0
+35061091,Language,8006,Official language minority (percentage),7.8,6.8,8.3
+35061092,Language,7002,  French only,1,0,0
+35061092,Language,8006,Official language minority (percentage),5.8,5.9,5.8
+35061094,Language,7002,  French only,0,0,0
+35061094,Language,8006,Official language minority (percentage),10.8,9.7,13.4
+35061097,Language,7002,  French only,1.2,0,0
+35061097,Language,8006,Official language minority (percentage),6,6.8,5
+35061098,Language,7002,  French only,0,1.2,0
+35061098,Language,8006,Official language minority (percentage),6.3,6,6.7
+35061100,Language,7002,  French only,0,0,0
+35061100,Language,8006,Official language minority (percentage),8,7.3,10.9
+35061101,Language,7002,  French only,0,0,0
+35061101,Language,8006,Official language minority (percentage),5.7,2.9,5.7
+35061102,Language,7002,  French only,1.1,0,2.3
+35061102,Language,8006,Official language minority (percentage),8,9.3,9.1
+35061103,Language,7002,  French only,0,0,0
+35061103,Language,8006,Official language minority (percentage),4.6,3.1,6.3
+35061104,Language,7002,  French only,0.8,0,1.4
+35061104,Language,8006,Official language minority (percentage),6.8,7,7.3
+35061105,Language,7002,  French only,0,0,0
+35061105,Language,8006,Official language minority (percentage),6.4,5.9,5.5
+35061106,Language,7002,  French only,1,2.1,0
+35061106,Language,8006,Official language minority (percentage),9,8.5,9.4
+35061107,Language,7002,  French only,0,0,0
+35061107,Language,8006,Official language minority (percentage),6.7,5.7,5.8
+35061108,Language,7002,  French only,1.5,0,0
+35061108,Language,8006,Official language minority (percentage),7.6,5.9,9.7
+35061113,Language,7002,  French only,2.4,2.3,2.4
+35061113,Language,8006,Official language minority (percentage),36.5,36.8,35.7
+35061114,Language,7002,  French only,2.2,2.2,4.4
+35061114,Language,8006,Official language minority (percentage),45.6,44.4,47.7
+35061115,Language,7002,  French only,4.6,6.5,2.4
+35061115,Language,8006,Official language minority (percentage),48.3,46.8,46.3
+35061116,Language,7002,  French only,1.7,0,0
+35061116,Language,8006,Official language minority (percentage),32.2,33.3,31
+35061117,Language,7002,  French only,1.6,3.3,1.6
+35061117,Language,8006,Official language minority (percentage),35.5,35,34.9
+35061118,Language,7002,  French only,3.6,3.5,1.9
+35061118,Language,8006,Official language minority (percentage),42.9,43.9,40
+35061119,Language,7002,  French only,6.6,4.7,7.2
+35061119,Language,8006,Official language minority (percentage),56.9,56,56.6
+35061120,Language,7002,  French only,1.6,0,3.3
+35061120,Language,8006,Official language minority (percentage),53.1,45.7,58.1
+35061121,Language,7002,  French only,1.9,0,4
+35061121,Language,8006,Official language minority (percentage),42.3,40.7,44
+35061122,Language,7002,  French only,4.7,4.7,4.6
+35061122,Language,8006,Official language minority (percentage),50,50,49.2
+35061123,Language,7002,  French only,5.9,6.6,5.2
+35061123,Language,8006,Official language minority (percentage),53.4,47.5,57.9
+35061124,Language,7002,  French only,5.4,7.1,3.5
+35061124,Language,8006,Official language minority (percentage),52.1,52.4,51.8
+35061125,Language,7002,  French only,0,0,0
+35061125,Language,8006,Official language minority (percentage),3.4,3.4,7.1
+35061126,Language,7002,  French only,0,0,0
+35061126,Language,8006,Official language minority (percentage),5.4,2.6,5.6
+35061127,Language,7002,  French only,0,0,0
+35061127,Language,8006,Official language minority (percentage),4.6,3.8,4.1
+35061128,Language,7002,  French only,0,0,0
+35061128,Language,8006,Official language minority (percentage),5.5,6.8,4.2
+35061129,Language,7002,  French only,1.2,0,2.5
+35061129,Language,8006,Official language minority (percentage),4.9,5,7.5
+35061130,Language,7002,  French only,0,0,0
+35061130,Language,8006,Official language minority (percentage),4.2,3.4,4.9
+35061131,Language,7002,  French only,0,0,0
+35061131,Language,8006,Official language minority (percentage),6.5,5.2,7.8
+35061132,Language,7002,  French only,0,0,0
+35061132,Language,8006,Official language minority (percentage),2.2,2,4.5
+35061133,Language,7002,  French only,0,0,0
+35061133,Language,8006,Official language minority (percentage),5.7,7.3,6.6
+35061134,Language,7002,  French only,0.8,0,0
+35061134,Language,8006,Official language minority (percentage),5.5,4.5,6.5
+35061135,Language,7002,  French only,0,0,0
+35061135,Language,8006,Official language minority (percentage),4.5,4.3,6.3
+35061136,Language,7002,  French only,0,0,0
+35061136,Language,8006,Official language minority (percentage),3.6,2.4,2.4
+35061137,Language,7002,  French only,0,0,0
+35061137,Language,8006,Official language minority (percentage),6.7,7.1,6.4
+35061138,Language,7002,  French only,0,0,0
+35061138,Language,8006,Official language minority (percentage),5.3,2.6,2.9
+35061140,Language,7002,  French only,0.4,0,0
+35061140,Language,8006,Official language minority (percentage),6.5,6.8,7
+35061141,Language,7002,  French only,0,0,0
+35061141,Language,8006,Official language minority (percentage),6,6.7,5.5
+35061142,Language,7002,  French only,0,0,0
+35061142,Language,8006,Official language minority (percentage),6.5,5.6,7.7
+35061143,Language,7002,  French only,0,0,0
+35061143,Language,8006,Official language minority (percentage),5.2,5.4,5.1
+35061144,Language,7002,  French only,0,0,0
+35061144,Language,8006,Official language minority (percentage),8.6,7.5,7.1
+35061145,Language,7002,  French only,0,0,2.6
+35061145,Language,8006,Official language minority (percentage),4.2,2.9,10.5
+35061146,Language,7002,  French only,0,2.4,0
+35061146,Language,8006,Official language minority (percentage),7.1,7.3,7.1
+35061147,Language,7002,  French only,0,0,0
+35061147,Language,8006,Official language minority (percentage),7.5,7.3,8.7
+35061148,Language,7002,  French only,0,0,0
+35061148,Language,8006,Official language minority (percentage),7.1,6.2,8
+35061149,Language,7002,  French only,0,0,0
+35061149,Language,8006,Official language minority (percentage),3.8,3.8,2.5
+35061150,Language,7002,  French only,0,0,0
+35061150,Language,8006,Official language minority (percentage),4,2.7,6.6
+35061151,Language,7002,  French only,0.9,0,0
+35061151,Language,8006,Official language minority (percentage),4.5,3.6,5.5
+35061152,Language,7002,  French only,0,0,0
+35061152,Language,8006,Official language minority (percentage),8.6,8.6,8.8
+35061153,Language,7002,  French only,0,0,0
+35061153,Language,8006,Official language minority (percentage),6.6,6.1,7.1
+35061154,Language,7002,  French only,1,0,0
+35061154,Language,8006,Official language minority (percentage),6.7,5.9,7.7
+35061155,Language,7002,  French only,0,0,0
+35061155,Language,8006,Official language minority (percentage),5.7,7,6.8
+35061156,Language,7002,  French only,0,0,0
+35061156,Language,8006,Official language minority (percentage),1.3,0,2.4
+35061157,Language,7002,  French only,0,0,0
+35061157,Language,8006,Official language minority (percentage),5.7,4.5,4.5
+35061158,Language,7002,  French only,0,0,0
+35061158,Language,8006,Official language minority (percentage),7.7,6.1,7.1
+35061159,Language,7002,  French only,0,0,0
+35061159,Language,8006,Official language minority (percentage),7.1,7.9,6.5
+35061160,Language,7002,  French only,0,0,0
+35061160,Language,8006,Official language minority (percentage),4.2,2.7,4.5
+35061161,Language,7002,  French only,0,0,0
+35061161,Language,8006,Official language minority (percentage),3.8,4.3,5
+35061171,Language,7002,  French only,1.2,0,2.3
+35061171,Language,8006,Official language minority (percentage),11.1,10.5,14
+35061174,Language,7002,  French only,0,0,2.4
+35061174,Language,8006,Official language minority (percentage),8.2,6.3,9.5
+35061175,Language,7002,  French only,0,0,0
+35061175,Language,8006,Official language minority (percentage),9.7,8.9,10.6
+35061178,Language,7002,  French only,0,0,0
+35061178,Language,8006,Official language minority (percentage),7,5.4,7
+35061179,Language,7002,  French only,0,0,0
+35061179,Language,8006,Official language minority (percentage),7.2,7,9.3
+35061180,Language,7002,  French only,0,0,0
+35061180,Language,8006,Official language minority (percentage),7.5,6.4,8.5
+35061181,Language,7002,  French only,0,0,0
+35061181,Language,8006,Official language minority (percentage),6.5,5.8,5.5
+35061182,Language,7002,  French only,0,0,0
+35061182,Language,8006,Official language minority (percentage),11.5,7.4,11.9
+35061183,Language,7002,  French only,0,0,0
+35061183,Language,8006,Official language minority (percentage),3.9,3.8,4
+35061184,Language,7002,  French only,0,0,0
+35061184,Language,8006,Official language minority (percentage),5.9,5.9,3.9
+35061185,Language,7002,  French only,0,0,0
+35061185,Language,8006,Official language minority (percentage),4.5,3.8,5.2
+35061186,Language,7002,  French only,1,1.9,0
+35061186,Language,8006,Official language minority (percentage),6.9,7.5,6.1
+35061188,Language,7002,  French only,0,0,2.3
+35061188,Language,8006,Official language minority (percentage),9.1,9.1,8.9
+35061189,Language,7002,  French only,1.3,0,1.1
+35061189,Language,8006,Official language minority (percentage),11.3,12.5,11.5
+35061190,Language,7002,  French only,0.6,0,0.5
+35061190,Language,8006,Official language minority (percentage),11.6,11.2,11.3
+35061191,Language,7002,  French only,0.9,2.2,0
+35061191,Language,8006,Official language minority (percentage),12.7,13,12.5
+35061192,Language,7002,  French only,0.7,1.5,0
+35061192,Language,8006,Official language minority (percentage),9,9.2,8.9
+35061193,Language,7002,  French only,0,1.7,0
+35061193,Language,8006,Official language minority (percentage),8.2,8.5,9.5
+35061194,Language,7002,  French only,1.2,0,2.3
+35061194,Language,8006,Official language minority (percentage),8.3,7.5,9.3
+35061195,Language,7002,  French only,0,0,0
+35061195,Language,8006,Official language minority (percentage),8.3,9.1,5.9
+35061196,Language,7002,  French only,0,0,0
+35061196,Language,8006,Official language minority (percentage),5.3,4,8.7
+35061197,Language,7002,  French only,0.6,0,1.1
+35061197,Language,8006,Official language minority (percentage),10.7,11.4,10.2
+35061198,Language,7002,  French only,0,0,0
+35061198,Language,8006,Official language minority (percentage),11.5,11.9,8.9
+35061201,Language,7002,  French only,0.5,0,0
+35061201,Language,8006,Official language minority (percentage),10.4,10.1,11.5
+35061202,Language,7002,  French only,0,0,0
+35061202,Language,8006,Official language minority (percentage),13.5,15.4,12
+35061203,Language,7002,  French only,0.8,0,0
+35061203,Language,8006,Official language minority (percentage),6.6,7,7.9
+35061204,Language,7002,  French only,4.7,4,4.5
+35061204,Language,8006,Official language minority (percentage),19.6,19.8,19.5
+35061208,Language,7002,  French only,0,0,1.8
+35061208,Language,8006,Official language minority (percentage),6.3,7.4,7.1
+35061209,Language,7002,  French only,0,0,0
+35061209,Language,8006,Official language minority (percentage),2.4,2.6,0
+35061210,Language,7002,  French only,0,2.4,0
+35061210,Language,8006,Official language minority (percentage),5.7,7.1,6.5
+35061213,Language,7002,  French only,0,0,0
+35061213,Language,8006,Official language minority (percentage),4.5,3.5,5.6
+35061214,Language,7002,  French only,0.9,0,1.6
+35061214,Language,8006,Official language minority (percentage),6.3,4.2,6.3
+35061215,Language,7002,  French only,0,0,0
+35061215,Language,8006,Official language minority (percentage),6.7,6.9,6.7
+35061222,Language,7002,  French only,NA,NA,NA
+35061222,Language,8006,Official language minority (percentage),NA,NA,NA
+35061225,Language,7002,  French only,1.1,0,2.2
+35061225,Language,8006,Official language minority (percentage),20,15.7,25
+35061227,Language,7002,  French only,2.7,0,2.6
+35061227,Language,8006,Official language minority (percentage),32.9,31.4,34.2
+35061228,Language,7002,  French only,0,2,0
+35061228,Language,8006,Official language minority (percentage),24.7,20.4,28.9
+35061229,Language,7002,  French only,2.7,1.8,1.8
+35061229,Language,8006,Official language minority (percentage),25.7,27.3,26.3
+35061230,Language,7002,  French only,1.2,2.4,0
+35061230,Language,8006,Official language minority (percentage),24.1,23.8,23.8
+35061231,Language,7002,  French only,2.5,2.8,2.2
+35061231,Language,8006,Official language minority (percentage),22.2,22.2,22.2
+35061232,Language,7002,  French only,0,0,0
+35061232,Language,8006,Official language minority (percentage),21.1,20.5,21.6
+35061233,Language,7002,  French only,1.4,2.7,0
+35061233,Language,8006,Official language minority (percentage),19.2,16.2,22.2
+35061234,Language,7002,  French only,1.3,2.6,2.5
+35061234,Language,8006,Official language minority (percentage),24.1,23.1,25
+35061235,Language,7002,  French only,4.3,1.8,4.9
+35061235,Language,8006,Official language minority (percentage),26.8,25,28
+35061236,Language,7002,  French only,2.1,2.1,2.1
+35061236,Language,8006,Official language minority (percentage),20.2,19.8,20.6
+35061237,Language,7002,  French only,0,0,0
+35061237,Language,8006,Official language minority (percentage),17,20,22.2
+35061238,Language,7002,  French only,1.1,0,2.2
+35061238,Language,8006,Official language minority (percentage),18.7,20,17
+35061239,Language,7002,  French only,1,0,1.8
+35061239,Language,8006,Official language minority (percentage),21.9,18.4,25
+35061240,Language,7002,  French only,1.1,2.2,0
+35061240,Language,8006,Official language minority (percentage),19.6,20.2,20
+35061241,Language,7002,  French only,0,0,0
+35061241,Language,8006,Official language minority (percentage),12.8,16,13.6
+35061242,Language,7002,  French only,2.6,0,5
+35061242,Language,8006,Official language minority (percentage),28.2,23.7,30
+35061243,Language,7002,  French only,1.7,1.9,3.3
+35061243,Language,8006,Official language minority (percentage),25.2,25.9,26.2
+35061247,Language,7002,  French only,2,1.1,2.8
+35061247,Language,8006,Official language minority (percentage),17.3,13.5,20.4
+35061248,Language,7002,  French only,0.5,0,0
+35061248,Language,8006,Official language minority (percentage),11.3,10.3,12.1
+35061249,Language,7002,  French only,2.7,1.9,3.6
+35061249,Language,8006,Official language minority (percentage),14.7,14.2,14.2
+35061250,Language,7002,  French only,3.3,2.2,4.3
+35061250,Language,8006,Official language minority (percentage),14,13.4,14.5
+35061251,Language,7002,  French only,0,0,1.6
+35061251,Language,8006,Official language minority (percentage),18.9,19.4,20
+35061252,Language,7002,  French only,0,0,0
+35061252,Language,8006,Official language minority (percentage),6.6,6.3,7.6
+35061253,Language,7002,  French only,0,0,0
+35061253,Language,8006,Official language minority (percentage),10.2,11.3,9.4
+35061254,Language,7002,  French only,1,1.2,0.9
+35061254,Language,8006,Official language minority (percentage),8.3,8.8,8
+35061256,Language,7002,  French only,0.7,1.4,1.2
+35061256,Language,8006,Official language minority (percentage),10.6,10.1,11.1
+35061257,Language,7002,  French only,0.8,1,0.7
+35061257,Language,8006,Official language minority (percentage),9.4,9.7,9.2
+35061261,Language,7002,  French only,1.6,1.3,0.9
+35061261,Language,8006,Official language minority (percentage),19.1,17.9,20
+35061263,Language,7002,  French only,5,3.8,6.2
+35061263,Language,8006,Official language minority (percentage),40.1,35,43.9
+35061264,Language,7002,  French only,0.8,0,0.8
+35061264,Language,8006,Official language minority (percentage),13.5,10.7,16
+35061266,Language,7002,  French only,1.5,1.5,1.4
+35061266,Language,8006,Official language minority (percentage),27.1,28.5,26.1
+35061267,Language,7002,  French only,1,2.2,0
+35061267,Language,8006,Official language minority (percentage),7,6.5,9.3
+35061268,Language,7002,  French only,0.4,0,0
+35061268,Language,8006,Official language minority (percentage),8.3,8.3,8.3
+35061269,Language,7002,  French only,0.4,0.9,0
+35061269,Language,8006,Official language minority (percentage),7.5,8.4,5.9
+35061270,Language,7002,  French only,0,0,0
+35061270,Language,8006,Official language minority (percentage),7.7,6.5,8.8
+35061271,Language,7002,  French only,0.5,0,0.9
+35061271,Language,8006,Official language minority (percentage),4.7,4.8,5.5
+35061272,Language,7002,  French only,0,0,0
+35061272,Language,8006,Official language minority (percentage),7.2,6.1,8.9
+35061273,Language,7002,  French only,1.7,1.7,0.8
+35061273,Language,8006,Official language minority (percentage),29.6,27.8,31.2
+35061279,Language,7002,  French only,0.3,0.8,0.6
+35061279,Language,8006,Official language minority (percentage),9.1,7.5,10.4
+35061280,Language,7002,  French only,0,0,1.2
+35061280,Language,8006,Official language minority (percentage),5.5,6,4.9
+35061281,Language,7002,  French only,0,0,0.7
+35061281,Language,8006,Official language minority (percentage),9.5,9.4,10.3
+35061282,Language,7002,  French only,4.6,4,4.6
+35061282,Language,8006,Official language minority (percentage),19.5,19.1,20.7
+35061284,Language,7002,  French only,3.3,2.7,4.8
+35061284,Language,8006,Official language minority (percentage),15,12.4,17.3
+35061285,Language,7002,  French only,0,0,0
+35061285,Language,8006,Official language minority (percentage),10.7,10.9,10.8
+35061286,Language,7002,  French only,3.1,2.7,3.4
+35061286,Language,8006,Official language minority (percentage),34.5,31.8,37.1
+35061287,Language,7002,  French only,0.5,0.9,0
+35061287,Language,8006,Official language minority (percentage),6.7,6.5,6.9
+35061288,Language,7002,  French only,0,0,0
+35061288,Language,8006,Official language minority (percentage),4.8,3.8,5.9
+35061289,Language,7002,  French only,5,3.6,6.3
+35061289,Language,8006,Official language minority (percentage),22.3,22.8,23.4
+35061290,Language,7002,  French only,0,0,0
+35061290,Language,8006,Official language minority (percentage),4.2,6.4,4.2
+35061291,Language,7002,  French only,0,0,0
+35061291,Language,8006,Official language minority (percentage),9.7,10,9.4
+35061292,Language,7002,  French only,0.9,0,0
+35061292,Language,8006,Official language minority (percentage),16.2,14.6,17.2
+35061293,Language,7002,  French only,1.8,0,1.7
+35061293,Language,8006,Official language minority (percentage),25.4,20,27.6
+35061294,Language,7002,  French only,0,0,0
+35061294,Language,8006,Official language minority (percentage),8.6,7.7,7.4
+35061295,Language,7002,  French only,2.4,2.4,2.3
+35061295,Language,8006,Official language minority (percentage),17.6,16.7,16.7
+35061296,Language,7002,  French only,1.2,1.3,1.2
+35061296,Language,8006,Official language minority (percentage),33.3,32.5,33.3
+35061297,Language,7002,  French only,4.4,4.9,4.1
+35061297,Language,8006,Official language minority (percentage),34.4,34.1,34.7
+35061298,Language,7002,  French only,0.6,0,1.2
+35061298,Language,8006,Official language minority (percentage),27.7,25.7,28
+35061299,Language,7002,  French only,2.1,1.2,2.9
+35061299,Language,8006,Official language minority (percentage),36.2,34.1,37.9
+35061300,Language,7002,  French only,0,0,0
+35061300,Language,8006,Official language minority (percentage),10.9,5.9,13.3
+35061301,Language,7002,  French only,1.8,0,4.1
+35061301,Language,8006,Official language minority (percentage),9,8.1,10.2
+35061302,Language,7002,  French only,0,0,4
+35061302,Language,8006,Official language minority (percentage),7.5,6.9,8
+35061303,Language,7002,  French only,1.2,1.4,1.1
+35061303,Language,8006,Official language minority (percentage),9.9,10,9.8
+35061304,Language,7002,  French only,0,0,0
+35061304,Language,8006,Official language minority (percentage),5.6,6.2,5
+35061305,Language,7002,  French only,0,0,0
+35061305,Language,8006,Official language minority (percentage),9.6,8.1,10.8
+35061306,Language,7002,  French only,0,0,0
+35061306,Language,8006,Official language minority (percentage),9.8,6.7,6.5
+35061307,Language,7002,  French only,2,2.3,1.8
+35061307,Language,8006,Official language minority (percentage),32.7,29.5,35.7
+35061308,Language,7002,  French only,2.4,0.9,3.6
+35061308,Language,8006,Official language minority (percentage),30.2,28.1,32.1
+35061309,Language,7002,  French only,2.3,2.3,2.3
+35061309,Language,8006,Official language minority (percentage),41.4,44.2,37.2
+35061310,Language,7002,  French only,3.4,2.9,3.9
+35061310,Language,8006,Official language minority (percentage),33.3,32.9,35.5
+35061311,Language,7002,  French only,2.6,2.6,2.7
+35061311,Language,8006,Official language minority (percentage),32.6,31,34.5
+35061312,Language,7002,  French only,3.6,1.8,3.5
+35061312,Language,8006,Official language minority (percentage),32.7,31.5,34.5
+35061313,Language,7002,  French only,2.3,2.3,2.3
+35061313,Language,8006,Official language minority (percentage),37.2,39.5,31.8
+35061314,Language,7002,  French only,3.2,1.6,4.8
+35061314,Language,8006,Official language minority (percentage),32.8,32.3,33.3
+35061315,Language,7002,  French only,1.3,1.3,1.3
+35061315,Language,8006,Official language minority (percentage),15.1,13.2,15.8
+35061316,Language,7002,  French only,0,0,0
+35061316,Language,8006,Official language minority (percentage),16.4,17.1,15.4
+35061317,Language,7002,  French only,0,0,0
+35061317,Language,8006,Official language minority (percentage),10.8,10.2,8.9
+35061318,Language,7002,  French only,2.5,0,0
+35061318,Language,8006,Official language minority (percentage),22.5,20,23.8
+35061319,Language,7002,  French only,2.9,3,4.1
+35061319,Language,8006,Official language minority (percentage),15.9,13.8,16.4
+35061320,Language,7002,  French only,3.8,4.6,4.5
+35061320,Language,8006,Official language minority (percentage),18,15.2,20.9
+35061321,Language,7002,  French only,1.7,3.7,3.2
+35061321,Language,8006,Official language minority (percentage),20.7,18.5,23.3
+35061322,Language,7002,  French only,3.7,3.4,4
+35061322,Language,8006,Official language minority (percentage),19.7,17.6,21.9
+35061323,Language,7002,  French only,0.7,1.4,1.5
+35061323,Language,8006,Official language minority (percentage),7.1,5.6,8.8
+35061325,Language,7002,  French only,3.2,3.2,2.5
+35061325,Language,8006,Official language minority (percentage),37.8,37.3,38
+35061326,Language,7002,  French only,2.2,0,2.2
+35061326,Language,8006,Official language minority (percentage),39.1,37.8,39.1
+35061327,Language,7002,  French only,3.7,2.5,5
+35061327,Language,8006,Official language minority (percentage),36.3,32.5,40
+35061328,Language,7002,  French only,2.8,1.8,3.7
+35061328,Language,8006,Official language minority (percentage),39.4,38.9,40.7
+35061329,Language,7002,  French only,3.9,4.1,3.8
+35061329,Language,8006,Official language minority (percentage),38.2,34.7,44.2
+35061331,Language,7002,  French only,1.3,2.7,0
+35061331,Language,8006,Official language minority (percentage),36.4,37.8,34.1
+35061332,Language,7002,  French only,3.2,4.3,4.2
+35061332,Language,8006,Official language minority (percentage),30.9,32.6,29.2
+35061333,Language,7002,  French only,3.4,2.9,3.9
+35061333,Language,8006,Official language minority (percentage),48.3,49.3,49.4
+35061334,Language,7002,  French only,3.2,0,3.1
+35061334,Language,8006,Official language minority (percentage),33.3,32.3,34.4
+35061335,Language,7002,  French only,2.5,0,4.9
+35061335,Language,8006,Official language minority (percentage),41.8,42.1,42.9
+35061336,Language,7002,  French only,6.8,8.2,5.7
+35061336,Language,8006,Official language minority (percentage),36.6,32.3,40
+35061337,Language,7002,  French only,5,3.2,6.6
+35061337,Language,8006,Official language minority (percentage),27.1,22.3,31.1
+35061338,Language,7002,  French only,1.7,1.7,3.2
+35061338,Language,8006,Official language minority (percentage),28.3,24.1,30.6
+35061339,Language,7002,  French only,4.5,0,9.1
+35061339,Language,8006,Official language minority (percentage),27.3,27.3,30
+35061340,Language,7002,  French only,7.1,6,8
+35061340,Language,8006,Official language minority (percentage),34.8,34.1,35.4
+35061341,Language,7002,  French only,4.3,2,4.5
+35061341,Language,8006,Official language minority (percentage),37.1,36,38.5
+35061342,Language,7002,  French only,NA,NA,NA
+35061342,Language,8006,Official language minority (percentage),NA,NA,NA
+35061343,Language,7002,  French only,0,0,1.9
+35061343,Language,8006,Official language minority (percentage),18.1,21.4,17.3
+35061344,Language,7002,  French only,2.3,0,3.4
+35061344,Language,8006,Official language minority (percentage),18.2,12.5,17.9
+35061345,Language,7002,  French only,1.7,0,3.2
+35061345,Language,8006,Official language minority (percentage),20.7,23.1,22.6
+35061346,Language,7002,  French only,2,2,0
+35061346,Language,8006,Official language minority (percentage),19.2,16.3,21.6
+35061347,Language,7002,  French only,7.7,4.8,6.7
+35061347,Language,8006,Official language minority (percentage),23.5,22.7,23.3
+35061348,Language,7002,  French only,1.4,2.8,0
+35061348,Language,8006,Official language minority (percentage),29.6,33.3,28.6
+35061349,Language,7002,  French only,1.4,0,0
+35061349,Language,8006,Official language minority (percentage),30,22.9,33.3
+35061350,Language,7002,  French only,3.6,3.6,5.2
+35061350,Language,8006,Official language minority (percentage),22.1,24.1,19
+35061351,Language,7002,  French only,4,5.2,3
+35061351,Language,8006,Official language minority (percentage),30.6,29.3,31.8
+35061352,Language,7002,  French only,3.6,2.4,7.1
+35061352,Language,8006,Official language minority (percentage),39.8,34.1,42.9
+35061354,Language,7002,  French only,3.5,2.4,4.7
+35061354,Language,8006,Official language minority (percentage),28.2,30.2,23.3
+35061355,Language,7002,  French only,1.4,0,0
+35061355,Language,8006,Official language minority (percentage),30.4,27.8,32.4
+35061356,Language,7002,  French only,1,2.2,3.7
+35061356,Language,8006,Official language minority (percentage),31.7,27.7,35.2
+35061357,Language,7002,  French only,5.7,5.1,8.1
+35061357,Language,8006,Official language minority (percentage),32.8,31.7,35.5
+35061358,Language,7002,  French only,3,2.5,3.6
+35061358,Language,8006,Official language minority (percentage),26.8,25.9,28.6
+35061361,Language,7002,  French only,4.1,6.1,5
+35061361,Language,8006,Official language minority (percentage),20.8,21.9,20
+35061362,Language,7002,  French only,4,2.9,5.1
+35061362,Language,8006,Official language minority (percentage),17.3,16.3,18.5
+35061363,Language,7002,  French only,2,0,4.3
+35061363,Language,8006,Official language minority (percentage),18.8,16,21.7
+35061364,Language,7002,  French only,3.9,2.6,2.5
+35061364,Language,8006,Official language minority (percentage),18.2,21.1,17.5
+35061365,Language,7002,  French only,2.9,2.8,5.9
+35061365,Language,8006,Official language minority (percentage),27.1,30.6,23.5
+35061366,Language,7002,  French only,7.5,6.2,7.2
+35061366,Language,8006,Official language minority (percentage),34.9,34.4,36.6
+35061367,Language,7002,  French only,1,0,1.9
+35061367,Language,8006,Official language minority (percentage),8.7,7.8,7.7
+35061368,Language,7002,  French only,0,0,0
+35061368,Language,8006,Official language minority (percentage),5.4,2.7,8.3
+35061369,Language,7002,  French only,0,0,0
+35061369,Language,8006,Official language minority (percentage),5.4,6.5,5.9
+35061370,Language,7002,  French only,0,0,0
+35061370,Language,8006,Official language minority (percentage),9.3,8.6,7.7
+35061371,Language,7002,  French only,0.4,0,0.8
+35061371,Language,8006,Official language minority (percentage),8.3,7.4,9.1
+35061372,Language,7002,  French only,0,0,0
+35061372,Language,8006,Official language minority (percentage),7.5,7,7.9
+35061373,Language,7002,  French only,0,0,0
+35061373,Language,8006,Official language minority (percentage),3.4,2.2,2.3
+35061374,Language,7002,  French only,0.8,1.5,0
+35061374,Language,8006,Official language minority (percentage),8.3,9.2,7.1
+35061375,Language,7002,  French only,0,0,0
+35061375,Language,8006,Official language minority (percentage),10.3,9.7,13
+35061376,Language,7002,  French only,0,0,0
+35061376,Language,8006,Official language minority (percentage),7.5,7.4,7.4
+35061377,Language,7002,  French only,1.1,0,0
+35061377,Language,8006,Official language minority (percentage),7.4,8.2,6.7
+35061378,Language,7002,  French only,0.6,1.1,0
+35061378,Language,8006,Official language minority (percentage),8.4,6.8,11.1
+35061379,Language,7002,  French only,0,0,0.9
+35061379,Language,8006,Official language minority (percentage),6.2,5.8,6.6
+35061380,Language,7002,  French only,0,0,0
+35061380,Language,8006,Official language minority (percentage),4.4,4.7,4.3
+35061381,Language,7002,  French only,0,0,0
+35061381,Language,8006,Official language minority (percentage),5.8,5.4,6.1
+35061382,Language,7002,  French only,0,0,0
+35061382,Language,8006,Official language minority (percentage),6.8,5.9,7.9
+35061383,Language,7002,  French only,0,0,0
+35061383,Language,8006,Official language minority (percentage),7.9,7.7,6.3
+35061384,Language,7002,  French only,0,0,0
+35061384,Language,8006,Official language minority (percentage),6.7,6.1,7.1
+35061385,Language,7002,  French only,1,0,1.9
+35061385,Language,8006,Official language minority (percentage),11.8,6,15.1
+35061386,Language,7002,  French only,0,0,0
+35061386,Language,8006,Official language minority (percentage),6.9,8.6,6.7
+35061387,Language,7002,  French only,1.2,1.3,1.2
+35061387,Language,8006,Official language minority (percentage),9.4,9.1,9.9
+35061388,Language,7002,  French only,1.2,1.2,1.5
+35061388,Language,8006,Official language minority (percentage),7.6,7.2,7.9
+35061389,Language,7002,  French only,1.8,1.5,1.3
+35061389,Language,8006,Official language minority (percentage),11.6,10.3,12.8
+35061390,Language,7002,  French only,0,0,0
+35061390,Language,8006,Official language minority (percentage),13.8,11.5,15.2
+35061391,Language,7002,  French only,NA,NA,NA
+35061391,Language,8006,Official language minority (percentage),NA,NA,NA
+35061392,Language,7002,  French only,0.5,0.5,0
+35061392,Language,8006,Official language minority (percentage),7.7,7.3,7.5
+35061393,Language,7002,  French only,0,0,0
+35061393,Language,8006,Official language minority (percentage),6.2,6.1,9.1
+35061394,Language,7002,  French only,0.9,1.9,1.9
+35061394,Language,8006,Official language minority (percentage),11.4,9.8,14.8
+35061395,Language,7002,  French only,1,0,0
+35061395,Language,8006,Official language minority (percentage),6.1,6.4,7.8
+35061396,Language,7002,  French only,1.2,0,2.3
+35061396,Language,8006,Official language minority (percentage),9.3,9.5,9.3
+35061397,Language,7002,  French only,0.8,0.8,1.7
+35061397,Language,8006,Official language minority (percentage),8.6,7.9,9.3
+35061398,Language,7002,  French only,0,0,0
+35061398,Language,8006,Official language minority (percentage),7.6,5.6,9.3
+35061399,Language,7002,  French only,0,0,0
+35061399,Language,8006,Official language minority (percentage),8,4,11.5
+35061400,Language,7002,  French only,0,0,0
+35061400,Language,8006,Official language minority (percentage),8.4,8,10.5
+35061401,Language,7002,  French only,1,0,2.1
+35061401,Language,8006,Official language minority (percentage),9.2,10,8.2
+35061402,Language,7002,  French only,1.3,1,1.5
+35061402,Language,8006,Official language minority (percentage),13.9,13,13.7
+35061403,Language,7002,  French only,1.3,1.4,1.2
+35061403,Language,8006,Official language minority (percentage),9.3,5.6,12.3
+35061404,Language,7002,  French only,0.7,0,1.4
+35061404,Language,8006,Official language minority (percentage),10.8,10.8,10.8
+35061406,Language,7002,  French only,0.6,1.2,0
+35061406,Language,8006,Official language minority (percentage),8.9,8.6,10.4
+35061410,Language,7002,  French only,0.8,0,0
+35061410,Language,8006,Official language minority (percentage),6.2,6.3,7.6
+35061411,Language,7002,  French only,0,0,0.7
+35061411,Language,8006,Official language minority (percentage),9.7,7.3,10.9
+35061412,Language,7002,  French only,0,0,0
+35061412,Language,8006,Official language minority (percentage),9.3,8,8.6
+35061413,Language,7002,  French only,0,0,0
+35061413,Language,8006,Official language minority (percentage),5.6,7,4.3
+35061414,Language,7002,  French only,0.7,1.5,1.5
+35061414,Language,8006,Official language minority (percentage),9.8,9.2,10.3
+35061415,Language,7002,  French only,0.8,0,1.5
+35061415,Language,8006,Official language minority (percentage),7.4,5.5,7.6
+35061416,Language,7002,  French only,1,0,0
+35061416,Language,8006,Official language minority (percentage),8.6,8,9.1
+35061417,Language,7002,  French only,0,0,0
+35061417,Language,8006,Official language minority (percentage),8.3,8.5,8.3
+35061418,Language,7002,  French only,0,0,0
+35061418,Language,8006,Official language minority (percentage),9.7,8.1,9.8
+35061419,Language,7002,  French only,0,1.9,0
+35061419,Language,8006,Official language minority (percentage),13.4,15.1,11.9
+35061420,Language,7002,  French only,1.1,0,2.1
+35061420,Language,8006,Official language minority (percentage),7.8,7,10.6
+35061421,Language,7002,  French only,0,0,0
+35061421,Language,8006,Official language minority (percentage),5.9,6.3,5.8
+35061422,Language,7002,  French only,0.9,1.6,1.8
+35061422,Language,8006,Official language minority (percentage),7.8,8.3,7.1
+35061423,Language,7002,  French only,0,0,0
+35061423,Language,8006,Official language minority (percentage),8,6,9.8
+35061424,Language,7002,  French only,0,0,0
+35061424,Language,8006,Official language minority (percentage),6.5,3.9,8.8
+35061426,Language,7002,  French only,0,0,0
+35061426,Language,8006,Official language minority (percentage),6.7,5,6.7
+35061427,Language,7002,  French only,0,0,0
+35061427,Language,8006,Official language minority (percentage),7.8,8,9.4
+35061428,Language,7002,  French only,1.4,0,0
+35061428,Language,8006,Official language minority (percentage),8.1,10.8,8.1
+35061432,Language,7002,  French only,0.2,0.4,0.4
+35061432,Language,8006,Official language minority (percentage),10.3,10.3,9.9
+35061442,Language,7002,  French only,0.9,0,0
+35061442,Language,8006,Official language minority (percentage),9.9,8.5,13.5
+35061443,Language,7002,  French only,0.5,0,0.9
+35061443,Language,8006,Official language minority (percentage),8.8,8.1,8.4
+35061444,Language,7002,  French only,0.3,0,0.7
+35061444,Language,8006,Official language minority (percentage),14.9,13.2,15.9
+35061445,Language,7002,  French only,0,0,0
+35061445,Language,8006,Official language minority (percentage),15.3,13.9,16.7
+35061446,Language,7002,  French only,0.4,0,0
+35061446,Language,8006,Official language minority (percentage),11.4,10.1,12
+35061447,Language,7002,  French only,0.3,0,0.5
+35061447,Language,8006,Official language minority (percentage),11.6,10.3,12.2
+35061448,Language,7002,  French only,0.5,0,0
+35061448,Language,8006,Official language minority (percentage),12.4,11.4,13.5
+35061449,Language,7002,  French only,0,0,0
+35061449,Language,8006,Official language minority (percentage),8.8,6.1,11.1
+35061450,Language,7002,  French only,1.6,1.6,1.6
+35061450,Language,8006,Official language minority (percentage),9.8,9.7,11.5
+35061451,Language,7002,  French only,0,0,0
+35061451,Language,8006,Official language minority (percentage),15.1,14.3,13.6
+35061452,Language,7002,  French only,0,2.7,0
+35061452,Language,8006,Official language minority (percentage),15.5,18.9,14.7
+35061453,Language,7002,  French only,0,0,0
+35061453,Language,8006,Official language minority (percentage),8.8,8.1,9.6
+35061454,Language,7002,  French only,0,0,1.3
+35061454,Language,8006,Official language minority (percentage),12,11.5,13.8
+35061455,Language,7002,  French only,0,0,0
+35061455,Language,8006,Official language minority (percentage),5.7,7,4.5
+35061456,Language,7002,  French only,0,0,0
+35061456,Language,8006,Official language minority (percentage),9.3,9.5,8.9
+35061457,Language,7002,  French only,0,0,0
+35061457,Language,8006,Official language minority (percentage),8.1,10,6.5
+35061458,Language,7002,  French only,0,0,0
+35061458,Language,8006,Official language minority (percentage),9.8,10,9.7
+35061459,Language,7002,  French only,0,0,0
+35061459,Language,8006,Official language minority (percentage),7.6,7.9,7.2
+35061460,Language,7002,  French only,1,1.9,0
+35061460,Language,8006,Official language minority (percentage),10,9.6,10.4
+35061461,Language,7002,  French only,1.1,0,2.2
+35061461,Language,8006,Official language minority (percentage),11,13,8.9
+35061462,Language,7002,  French only,0,0,0
+35061462,Language,8006,Official language minority (percentage),10.6,10.8,11.9
+35061463,Language,7002,  French only,0,0,0
+35061463,Language,8006,Official language minority (percentage),5.3,4.9,5.7
+35061464,Language,7002,  French only,0,0,0
+35061464,Language,8006,Official language minority (percentage),4,5.3,2.7
+35061465,Language,7002,  French only,0,0,0
+35061465,Language,8006,Official language minority (percentage),6.1,5.6,6.7
+35061466,Language,7002,  French only,0,0,0
+35061466,Language,8006,Official language minority (percentage),4.3,4.5,2
+35061467,Language,7002,  French only,0,0,0
+35061467,Language,8006,Official language minority (percentage),5.2,2.6,5.1
+35061468,Language,7002,  French only,0,0,0
+35061468,Language,8006,Official language minority (percentage),3.6,2.6,4.7
+35061469,Language,7002,  French only,0,0,0
+35061469,Language,8006,Official language minority (percentage),6.1,7.5,7.3
+35061470,Language,7002,  French only,0,0,0
+35061470,Language,8006,Official language minority (percentage),8.1,6.8,12.2
+35061471,Language,7002,  French only,0,0,0
+35061471,Language,8006,Official language minority (percentage),11.5,10.6,14.3
+35061472,Language,7002,  French only,0,0,0
+35061472,Language,8006,Official language minority (percentage),3.9,4.9,2.9
+35061473,Language,7002,  French only,0,0,0
+35061473,Language,8006,Official language minority (percentage),7.7,6.8,10.3
+35061474,Language,7002,  French only,0.7,0,1.3
+35061474,Language,8006,Official language minority (percentage),10,11.1,9
+35061475,Language,7002,  French only,0.6,1.2,1.1
+35061475,Language,8006,Official language minority (percentage),9.9,10.8,10.1
+35061476,Language,7002,  French only,0,0,0
+35061476,Language,8006,Official language minority (percentage),7.6,7.1,6.8
+35061477,Language,7002,  French only,1.2,2.2,2.5
+35061477,Language,8006,Official language minority (percentage),12.8,10.9,15
+35061478,Language,7002,  French only,0.9,0,0
+35061478,Language,8006,Official language minority (percentage),13,12.5,11.5
+35061479,Language,7002,  French only,0,0,0
+35061479,Language,8006,Official language minority (percentage),18,17.8,18.2
+35061480,Language,7002,  French only,2.2,0,2.2
+35061480,Language,8006,Official language minority (percentage),31.5,28.9,34.8
+35061481,Language,7002,  French only,0.9,0,0
+35061481,Language,8006,Official language minority (percentage),27.6,28.8,26.8
+35061482,Language,7002,  French only,2.7,1.8,1.7
+35061482,Language,8006,Official language minority (percentage),30.1,29.6,32.8
+35061483,Language,7002,  French only,0,0,0
+35061483,Language,8006,Official language minority (percentage),13.4,12.9,13.8
+35061484,Language,7002,  French only,1.2,1.1,1.3
+35061484,Language,8006,Official language minority (percentage),14.4,13.4,15.3
+35061486,Language,7002,  French only,0,0,0
+35061486,Language,8006,Official language minority (percentage),7.2,5.8,8.6
+35061487,Language,7002,  French only,0.5,1.2,0
+35061487,Language,8006,Official language minority (percentage),14.8,14.1,14.3
+35061488,Language,7002,  French only,1.1,0,0
+35061488,Language,8006,Official language minority (percentage),12.9,14.6,13.2
+35061493,Language,7002,  French only,0.4,0.4,0.4
+35061493,Language,8006,Official language minority (percentage),8.5,8.2,8.8
+35061494,Language,7002,  French only,0.9,1.8,1.7
+35061494,Language,8006,Official language minority (percentage),9.6,7.1,11.9
+35061495,Language,7002,  French only,1.5,0,1.4
+35061495,Language,8006,Official language minority (percentage),7.4,7.8,8.2
+35061496,Language,7002,  French only,0,0,0.5
+35061496,Language,8006,Official language minority (percentage),6.9,7,6.7
+35061497,Language,7002,  French only,0,0,0
+35061497,Language,8006,Official language minority (percentage),7.8,5.8,9.8
+35061498,Language,7002,  French only,0,0,0
+35061498,Language,8006,Official language minority (percentage),8.5,6.6,12.3
+35061499,Language,7002,  French only,0,0,2.1
+35061499,Language,8006,Official language minority (percentage),6.1,6,6.3
+35061500,Language,7002,  French only,0,0,0
+35061500,Language,8006,Official language minority (percentage),7.4,6.5,8.6
+35061501,Language,7002,  French only,0,0,0
+35061501,Language,8006,Official language minority (percentage),5.4,5.5,5.3
+35061502,Language,7002,  French only,0,0,0
+35061502,Language,8006,Official language minority (percentage),6.4,7.3,6.8
+35061503,Language,7002,  French only,0,0,0
+35061503,Language,8006,Official language minority (percentage),7,8.1,7.6
+35061504,Language,7002,  French only,0,0,0
+35061504,Language,8006,Official language minority (percentage),7.2,5.2,9.4
+35061505,Language,7002,  French only,0,0,0
+35061505,Language,8006,Official language minority (percentage),4.5,4.3,4.7
+35061506,Language,7002,  French only,1,1.9,0
+35061506,Language,8006,Official language minority (percentage),7.8,7.4,8.5
+35061507,Language,7002,  French only,0,0,0
+35061507,Language,8006,Official language minority (percentage),4.6,2.3,4.4
+35061508,Language,7002,  French only,1.2,0,0
+35061508,Language,8006,Official language minority (percentage),3.5,2.3,4.9
+35061509,Language,7002,  French only,7.7,10,6.5
+35061509,Language,8006,Official language minority (percentage),32.7,30,37.5
+35061510,Language,7002,  French only,8.1,10.3,6.5
+35061510,Language,8006,Official language minority (percentage),28.9,31.6,28.6
+35061511,Language,7002,  French only,6,6.7,5.3
+35061511,Language,8006,Official language minority (percentage),25.4,26.7,24.3
+35061512,Language,7002,  French only,2.8,2,1.8
+35061512,Language,8006,Official language minority (percentage),16.8,16,17.5
+35061514,Language,7002,  French only,3.6,0.5,7.3
+35061514,Language,8006,Official language minority (percentage),15.2,10.3,20.6
+35061518,Language,7002,  French only,0,0,0
+35061518,Language,8006,Official language minority (percentage),17.1,14.3,17.1
+35061519,Language,7002,  French only,0,0,0
+35061519,Language,8006,Official language minority (percentage),10.7,9.6,11.7
+35061520,Language,7002,  French only,1,0.7,1.2
+35061520,Language,8006,Official language minority (percentage),9.4,8.2,10.5
+35061521,Language,7002,  French only,2.3,2.3,2.3
+35061521,Language,8006,Official language minority (percentage),16.3,13.6,16.7
+35061522,Language,7002,  French only,0.8,0,1.6
+35061522,Language,8006,Official language minority (percentage),13,12.5,12.6
+35061523,Language,7002,  French only,1.7,0,3.2
+35061523,Language,8006,Official language minority (percentage),13.3,11.1,12.9
+35061524,Language,7002,  French only,2.4,1.5,2.4
+35061524,Language,8006,Official language minority (percentage),16.5,14.2,17.7
+35061525,Language,7002,  French only,0.9,0,0
+35061525,Language,8006,Official language minority (percentage),13,10.2,15.5
+35061526,Language,7002,  French only,0,0,0
+35061526,Language,8006,Official language minority (percentage),10.1,8.7,11.5
+35061530,Language,7002,  French only,0.4,0.7,0.8
+35061530,Language,8006,Official language minority (percentage),9.1,8.1,10
+35061531,Language,7002,  French only,0,0,0
+35061531,Language,8006,Official language minority (percentage),8.5,6.6,10.1
+35061533,Language,7002,  French only,1.2,1.3,1.2
+35061533,Language,8006,Official language minority (percentage),11.7,11.8,12.8
+35061534,Language,7002,  French only,0.8,0.5,1.6
+35061534,Language,8006,Official language minority (percentage),11.7,10.3,12.6
+35061535,Language,7002,  French only,3.8,3.9,3.6
+35061535,Language,8006,Official language minority (percentage),13.3,14,14.5
+35061536,Language,7002,  French only,1.6,1.1,2.1
+35061536,Language,8006,Official language minority (percentage),15.7,13.3,17
+35061537,Language,7002,  French only,4.2,0,4
+35061537,Language,8006,Official language minority (percentage),8.3,8.7,12
+35061538,Language,7002,  French only,0.9,1.7,1.8
+35061538,Language,8006,Official language minority (percentage),16.2,13.3,19.3
+35061539,Language,7002,  French only,0,0,0
+35061539,Language,8006,Official language minority (percentage),10.2,7.1,13.2
+35061540,Language,7002,  French only,0.6,0,0
+35061540,Language,8006,Official language minority (percentage),8.1,9.1,7.1
+35061541,Language,7002,  French only,0.7,0,0
+35061541,Language,8006,Official language minority (percentage),8.8,8.7,8.9
+35061542,Language,7002,  French only,0,0,0
+35061542,Language,8006,Official language minority (percentage),7.6,7.9,8.2
+35061543,Language,7002,  French only,0,0,0
+35061543,Language,8006,Official language minority (percentage),8.3,7.4,9.2
+35061544,Language,7002,  French only,0,0,0
+35061544,Language,8006,Official language minority (percentage),6.4,6.2,7.4
+35061545,Language,7002,  French only,1.1,0,2.2
+35061545,Language,8006,Official language minority (percentage),10.1,9.3,10.9
+35061546,Language,7002,  French only,0.7,0.7,0.7
+35061546,Language,8006,Official language minority (percentage),9.5,9.4,8.9
+35061547,Language,7002,  French only,0.6,0.6,0.5
+35061547,Language,8006,Official language minority (percentage),7.3,6.3,8.2
+35061548,Language,7002,  French only,0.4,0.8,0
+35061548,Language,8006,Official language minority (percentage),10.8,10.3,11.2
+35061549,Language,7002,  French only,0.8,0,0
+35061549,Language,8006,Official language minority (percentage),11,11.1,10.9
+35061550,Language,7002,  French only,1,0,1.9
+35061550,Language,8006,Official language minority (percentage),12.2,12.8,9.6
+35061551,Language,7002,  French only,0.7,0,0
+35061551,Language,8006,Official language minority (percentage),7.9,6,9.9
+35061552,Language,7002,  French only,0.8,1.7,0
+35061552,Language,8006,Official language minority (percentage),11.6,10.2,11.3
+35061553,Language,7002,  French only,4.8,1.4,6.2
+35061553,Language,8006,Official language minority (percentage),45.5,42.9,48
+35061554,Language,7002,  French only,2.3,3,3
+35061554,Language,8006,Official language minority (percentage),26.5,25.8,27.3
+35061555,Language,7002,  French only,2.6,2.7,2.5
+35061555,Language,8006,Official language minority (percentage),40.3,39.3,41.1
+35061556,Language,7002,  French only,4.2,3.6,5.1
+35061556,Language,8006,Official language minority (percentage),36.9,36.2,37.2
+35061557,Language,7002,  French only,0,0,0
+35061557,Language,8006,Official language minority (percentage),8.6,8.5,8.5
+35061558,Language,7002,  French only,0.4,0,0
+35061558,Language,8006,Official language minority (percentage),8.8,9,8.7
+35061559,Language,7002,  French only,0,0,0
+35061559,Language,8006,Official language minority (percentage),8.1,6.7,9.3
+35061560,Language,7002,  French only,1,0,2
+35061560,Language,8006,Official language minority (percentage),10.1,10.4,9.8
+35061561,Language,7002,  French only,0.6,0,1.1
+35061561,Language,8006,Official language minority (percentage),7.8,8,8.6
+35061562,Language,7002,  French only,0,0,0
+35061562,Language,8006,Official language minority (percentage),7.7,7.7,7.6
+35061563,Language,7002,  French only,0.9,1.9,1.8
+35061563,Language,8006,Official language minority (percentage),13.2,9.6,16.4
+35061564,Language,7002,  French only,1,0,0.9
+35061564,Language,8006,Official language minority (percentage),9.8,9.4,10.3
+35061565,Language,7002,  French only,10.6,9.2,12
+35061565,Language,8006,Official language minority (percentage),55.7,50.8,60
+35061566,Language,7002,  French only,5.5,4.4,7.3
+35061566,Language,8006,Official language minority (percentage),42,38.6,45.2
+35061567,Language,7002,  French only,5.8,6.1,5.6
+35061567,Language,8006,Official language minority (percentage),44.5,40.9,47.9
+35061568,Language,7002,  French only,0.3,0.3,0.5
+35061568,Language,8006,Official language minority (percentage),6.3,5.3,6.9
+35061569,Language,7002,  French only,0,1.2,1.2
+35061569,Language,8006,Official language minority (percentage),7.9,7.2,8.4
+35061570,Language,7002,  French only,1.4,2.8,0
+35061570,Language,8006,Official language minority (percentage),8.3,5.6,8.1
+35061571,Language,7002,  French only,0,0,0
+35061571,Language,8006,Official language minority (percentage),7.5,8.6,6.5
+35061572,Language,7002,  French only,0.2,0.4,0.4
+35061572,Language,8006,Official language minority (percentage),7.4,7.6,7.1
+35061573,Language,7002,  French only,0,0,0
+35061573,Language,8006,Official language minority (percentage),5.9,6.9,6.8
+35061574,Language,7002,  French only,0.6,0,1.1
+35061574,Language,8006,Official language minority (percentage),6.7,7,6.4
+35061575,Language,7002,  French only,0,0,0
+35061575,Language,8006,Official language minority (percentage),8.1,7,7.8
+35061576,Language,7002,  French only,0.9,0,0
+35061576,Language,8006,Official language minority (percentage),7.6,6,7.1
+35061577,Language,7002,  French only,0.9,0,0
+35061577,Language,8006,Official language minority (percentage),6.3,5.3,7.4
+35061578,Language,7002,  French only,0.4,0,0.6
+35061578,Language,8006,Official language minority (percentage),11.8,8.9,13.8
+35061579,Language,7002,  French only,0.5,0,0.8
+35061579,Language,8006,Official language minority (percentage),11.1,10.1,11.8
+35061580,Language,7002,  French only,0,0,0
+35061580,Language,8006,Official language minority (percentage),14.7,11.1,16.7
+35061581,Language,7002,  French only,0.7,0,1.4
+35061581,Language,8006,Official language minority (percentage),10.1,10.1,8.6
+35061582,Language,7002,  French only,0,0,0
+35061582,Language,8006,Official language minority (percentage),8.2,6.5,7.7
+35061583,Language,7002,  French only,0,0,0
+35061583,Language,8006,Official language minority (percentage),5.9,6.6,6.3
+35061584,Language,7002,  French only,0,0,0
+35061584,Language,8006,Official language minority (percentage),8.8,8.2,9.3
+35061585,Language,7002,  French only,0,0,0
+35061585,Language,8006,Official language minority (percentage),5.4,5.4,5.4
+35061586,Language,7002,  French only,0,0,0
+35061586,Language,8006,Official language minority (percentage),5.8,6.1,5.3
+35061587,Language,7002,  French only,0,0,0
+35061587,Language,8006,Official language minority (percentage),8.1,6.6,8.4
+35061588,Language,7002,  French only,0.5,0,1
+35061588,Language,8006,Official language minority (percentage),7.8,9.1,7.8
+35061589,Language,7002,  French only,1,2,1.1
+35061589,Language,8006,Official language minority (percentage),9.9,9.2,11.7
+35061590,Language,7002,  French only,0,0,0
+35061590,Language,8006,Official language minority (percentage),7.1,6,8.2
+35061591,Language,7002,  French only,0.3,0.6,0.5
+35061591,Language,8006,Official language minority (percentage),10.1,9.1,10.5
+35061592,Language,7002,  French only,0.7,0.8,0.7
+35061592,Language,8006,Official language minority (percentage),8.2,6.9,9.4
+35061593,Language,7002,  French only,0.3,0,0.5
+35061593,Language,8006,Official language minority (percentage),9.8,9.1,9.9
+35061595,Language,7002,  French only,0,0,2.2
+35061595,Language,8006,Official language minority (percentage),11.6,9.5,15.9
+35061596,Language,7002,  French only,0,0,0
+35061596,Language,8006,Official language minority (percentage),5.7,5.1,6.3
+35061597,Language,7002,  French only,0,0,0
+35061597,Language,8006,Official language minority (percentage),7,6.8,7.1
+35061598,Language,7002,  French only,0,0,0
+35061598,Language,8006,Official language minority (percentage),5.6,7.4,7.4
+35061599,Language,7002,  French only,1.1,0,2.3
+35061599,Language,8006,Official language minority (percentage),10.3,7,11.4
+35061601,Language,7002,  French only,0.8,0,1.5
+35061601,Language,8006,Official language minority (percentage),11.5,9.5,13.4
+35061602,Language,7002,  French only,0,0,0
+35061602,Language,8006,Official language minority (percentage),14.7,14.8,16.7
+35061604,Language,7002,  French only,0.7,0,1.5
+35061604,Language,8006,Official language minority (percentage),11.9,13,10.8
+35061605,Language,7002,  French only,0.5,1.1,0
+35061605,Language,8006,Official language minority (percentage),12.6,11.2,14
+35061607,Language,7002,  French only,0.8,0,0
+35061607,Language,8006,Official language minority (percentage),14.3,15.3,13.1
+35061608,Language,7002,  French only,0,0,0
+35061608,Language,8006,Official language minority (percentage),17.3,15.7,20.4
+35061610,Language,7002,  French only,0,0,2.6
+35061610,Language,8006,Official language minority (percentage),15,12.2,15.4
+35061611,Language,7002,  French only,0,0,0
+35061611,Language,8006,Official language minority (percentage),6.5,5.3,7.5
+35061613,Language,7002,  French only,0,1.6,0
+35061613,Language,8006,Official language minority (percentage),8.5,9.5,7.7
+35061614,Language,7002,  French only,0,0,0
+35061614,Language,8006,Official language minority (percentage),5.9,2,7.4
+35061616,Language,7002,  French only,0,0,1.4
+35061616,Language,8006,Official language minority (percentage),8.4,8.2,8.6
+35061621,Language,7002,  French only,0,0,0
+35061621,Language,8006,Official language minority (percentage),5.4,7.1,5.9
+35061622,Language,7002,  French only,0.7,1.5,0
+35061622,Language,8006,Official language minority (percentage),10.1,9.4,10.8
+35061623,Language,7002,  French only,0,0,0
+35061623,Language,8006,Official language minority (percentage),9,8.7,9.3
+35061627,Language,7002,  French only,0,0,0
+35061627,Language,8006,Official language minority (percentage),11.5,11.5,11.5
+35061628,Language,7002,  French only,0.9,0,0
+35061628,Language,8006,Official language minority (percentage),10.2,6,12.1
+35061633,Language,7002,  French only,0.9,0,0
+35061633,Language,8006,Official language minority (percentage),15.7,13.8,16.1
+35061634,Language,7002,  French only,1.3,0,2.6
+35061634,Language,8006,Official language minority (percentage),25.6,23.7,25
+35061638,Language,7002,  French only,0,0,0
+35061638,Language,8006,Official language minority (percentage),9.5,8.9,10
+35061639,Language,7002,  French only,0.5,0,0
+35061639,Language,8006,Official language minority (percentage),10.7,9.6,10.6
+35061640,Language,7002,  French only,0,0,0
+35061640,Language,8006,Official language minority (percentage),7.4,5.6,10.9
+35061643,Language,7002,  French only,1.3,2.9,0
+35061643,Language,8006,Official language minority (percentage),7.6,8.6,7
+35061645,Language,7002,  French only,0,0,0
+35061645,Language,8006,Official language minority (percentage),9,9.2,8.8
+35061646,Language,7002,  French only,3.8,4.1,3.6
+35061646,Language,8006,Official language minority (percentage),16.3,16.3,18.2
+35061651,Language,7002,  French only,0,0,0
+35061651,Language,8006,Official language minority (percentage),14.1,13.3,14.7
+35061653,Language,7002,  French only,0,0,0
+35061653,Language,8006,Official language minority (percentage),9.2,10,10.3
+35061654,Language,7002,  French only,0.9,0,0
+35061654,Language,8006,Official language minority (percentage),9.8,7.8,9.7
+35061657,Language,7002,  French only,0,0,0
+35061657,Language,8006,Official language minority (percentage),7.4,7.1,9.1
+35061658,Language,7002,  French only,0,0,0
+35061658,Language,8006,Official language minority (percentage),6.6,6.3,6.8
+35061659,Language,7002,  French only,2.1,2.9,2
+35061659,Language,8006,Official language minority (percentage),39.2,38.3,40.8
+35061660,Language,7002,  French only,4,4,2
+35061660,Language,8006,Official language minority (percentage),37.6,40,38
+35061661,Language,7002,  French only,2.3,3.2,1.5
+35061661,Language,8006,Official language minority (percentage),33.6,30.6,34.3
+35061662,Language,7002,  French only,4.1,3.8,3.7
+35061662,Language,8006,Official language minority (percentage),36.7,35.7,37.7
+35061663,Language,7002,  French only,3.1,2.2,3.4
+35061663,Language,8006,Official language minority (percentage),39.4,38.4,41.2
+35061664,Language,7002,  French only,1.3,2.4,0
+35061664,Language,8006,Official language minority (percentage),32.9,34.1,34.2
+35061667,Language,7002,  French only,5.4,3.3,7.7
+35061667,Language,8006,Official language minority (percentage),39.3,36.7,40
+35061668,Language,7002,  French only,2.6,2.5,2.7
+35061668,Language,8006,Official language minority (percentage),30.3,27.5,33.3
+35061670,Language,7002,  French only,0,0,0
+35061670,Language,8006,Official language minority (percentage),3.4,0,3.6
+35061671,Language,7002,  French only,0.7,1.5,1.3
+35061671,Language,8006,Official language minority (percentage),11.2,9.1,11.8
+35061672,Language,7002,  French only,0.9,0,1.9
+35061672,Language,8006,Official language minority (percentage),8.4,7.5,11.1
+35061673,Language,7002,  French only,0,0,1.4
+35061673,Language,8006,Official language minority (percentage),10.1,9.5,10.8
+35061674,Language,7002,  French only,0,0,0
+35061674,Language,8006,Official language minority (percentage),11.7,11.5,10
+35061677,Language,7002,  French only,0.5,0.4,0.6
+35061677,Language,8006,Official language minority (percentage),9,8.7,9.3
+35061679,Language,7002,  French only,0,0,0
+35061679,Language,8006,Official language minority (percentage),5.6,4.5,5.3
+35061680,Language,7002,  French only,0,0,0
+35061680,Language,8006,Official language minority (percentage),6.7,4.8,7.2
+35061683,Language,7002,  French only,0,0,0
+35061683,Language,8006,Official language minority (percentage),6,5.4,6.4
+35061690,Language,7002,  French only,0,0,0
+35061690,Language,8006,Official language minority (percentage),7.4,7.4,6
+35061691,Language,7002,  French only,0,0,0
+35061691,Language,8006,Official language minority (percentage),8.4,8.3,8.3
+35061692,Language,7002,  French only,0,0,0
+35061692,Language,8006,Official language minority (percentage),6.7,7.8,5.7
+35061693,Language,7002,  French only,0,0,0
+35061693,Language,8006,Official language minority (percentage),7.8,5.2,10.5
+35061695,Language,7002,  French only,0,0,0
+35061695,Language,8006,Official language minority (percentage),14.7,13,18.4
+35061696,Language,7002,  French only,1.1,0,2
+35061696,Language,8006,Official language minority (percentage),13.8,10.9,16.3
+35061699,Language,7002,  French only,1,0,0
+35061699,Language,8006,Official language minority (percentage),10.5,9.4,11.5
+35061700,Language,7002,  French only,1,0,0
+35061700,Language,8006,Official language minority (percentage),10.9,12.1,9.1
+35061701,Language,7002,  French only,3.3,2.1,4.5
+35061701,Language,8006,Official language minority (percentage),12,10.4,13.6
+35061702,Language,7002,  French only,0.5,0,1.1
+35061702,Language,8006,Official language minority (percentage),12.6,12.5,11.5
+35061703,Language,7002,  French only,2.2,2.4,3.1
+35061703,Language,8006,Official language minority (percentage),13.8,12.2,14.1
+35061705,Language,7002,  French only,1.1,0,1.1
+35061705,Language,8006,Official language minority (percentage),15.2,13.6,16.7
+35061708,Language,7002,  French only,1.8,1.2,1.2
+35061708,Language,8006,Official language minority (percentage),12,9.6,14.3
+35061709,Language,7002,  French only,0.4,0.7,0
+35061709,Language,8006,Official language minority (percentage),13.4,12.7,13.2
+35061710,Language,7002,  French only,0,0,0
+35061710,Language,8006,Official language minority (percentage),9.7,11.8,8.8
+35061711,Language,7002,  French only,0.6,0,0
+35061711,Language,8006,Official language minority (percentage),13.9,14.3,12.2
+35061712,Language,7002,  French only,0,0,0
+35061712,Language,8006,Official language minority (percentage),13.5,13.1,12.5
+35061713,Language,7002,  French only,0,0,0
+35061713,Language,8006,Official language minority (percentage),12.3,11.3,13.2
+35061714,Language,7002,  French only,0.7,0,1.5
+35061714,Language,8006,Official language minority (percentage),11.2,9.2,11.6
+35061715,Language,7002,  French only,1,1.8,0
+35061715,Language,8006,Official language minority (percentage),11.5,12.5,10.2
+35061716,Language,7002,  French only,0.8,0,1.5
+35061716,Language,8006,Official language minority (percentage),13.6,11.7,15.4
+35061717,Language,7002,  French only,0.8,0.7,0.9
+35061717,Language,8006,Official language minority (percentage),9.2,8,9.8
+35061718,Language,7002,  French only,0.8,0,1.5
+35061718,Language,8006,Official language minority (percentage),14.8,12.3,17.2
+35061722,Language,7002,  French only,2.1,1.2,1.7
+35061722,Language,8006,Official language minority (percentage),27.6,28.2,27.1
+35061723,Language,7002,  French only,3.8,4.8,5.6
+35061723,Language,8006,Official language minority (percentage),37.2,35.7,36.1
+35061724,Language,7002,  French only,4.9,3.8,5.8
+35061724,Language,8006,Official language minority (percentage),57.4,51.9,62.1
+35061725,Language,7002,  French only,4.2,1.6,5.3
+35061725,Language,8006,Official language minority (percentage),29.4,31.1,29.3
+35061726,Language,7002,  French only,3,2,3.9
+35061726,Language,8006,Official language minority (percentage),32,30.6,35.3
+35061727,Language,7002,  French only,11.1,8,12.9
+35061727,Language,8006,Official language minority (percentage),39,37.9,40
+35061728,Language,7002,  French only,1.8,1.9,1.7
+35061728,Language,8006,Official language minority (percentage),35.4,33.3,36.7
+35061729,Language,7002,  French only,6.8,3.5,9.8
+35061729,Language,8006,Official language minority (percentage),44.4,38.6,50
+35061730,Language,7002,  French only,4.6,3.8,5.4
+35061730,Language,8006,Official language minority (percentage),55.6,51.9,60
+35061732,Language,7002,  French only,0,0,0
+35061732,Language,8006,Official language minority (percentage),11.6,10,11.5
+35061733,Language,7002,  French only,0.5,1.1,0
+35061733,Language,8006,Official language minority (percentage),11,11.1,10.9
+35061736,Language,7002,  French only,0.9,0,1.8
+35061736,Language,8006,Official language minority (percentage),8.5,11.8,5.5
+35061737,Language,7002,  French only,0.6,0,0
+35061737,Language,8006,Official language minority (percentage),13,13,13.1
+35061738,Language,7002,  French only,0,0,0
+35061738,Language,8006,Official language minority (percentage),6.8,6.9,7.9
+35061739,Language,7002,  French only,0.7,1.5,1.5
+35061739,Language,8006,Official language minority (percentage),11.9,12.1,11.8
+35061740,Language,7002,  French only,0,0,0
+35061740,Language,8006,Official language minority (percentage),7.3,5.6,9
+35061741,Language,7002,  French only,0,0,0
+35061741,Language,8006,Official language minority (percentage),11.7,11.8,12.5
+35061742,Language,7002,  French only,0.6,0,1.3
+35061742,Language,8006,Official language minority (percentage),10.3,9,11.5
+35061743,Language,7002,  French only,0,0,0
+35061743,Language,8006,Official language minority (percentage),9.1,7,10.9
+35061744,Language,7002,  French only,0.5,1,0
+35061744,Language,8006,Official language minority (percentage),14.3,13.1,15.4
+35061745,Language,7002,  French only,0,0,0
+35061745,Language,8006,Official language minority (percentage),8.8,9.1,8.5
+35061746,Language,7002,  French only,0.6,0,0
+35061746,Language,8006,Official language minority (percentage),11.7,9.6,12.3
+35061747,Language,7002,  French only,0,1.3,0
+35061747,Language,8006,Official language minority (percentage),11.8,12.8,11
+35061749,Language,7002,  French only,0.7,1.6,1.4
+35061749,Language,8006,Official language minority (percentage),9.6,9.7,8.2
+35061750,Language,7002,  French only,0.8,0,0
+35061750,Language,8006,Official language minority (percentage),7.5,6.5,9.9
+35061751,Language,7002,  French only,0.7,0,1.3
+35061751,Language,8006,Official language minority (percentage),11.5,10.3,12.5
+35061752,Language,7002,  French only,0,0,0
+35061752,Language,8006,Official language minority (percentage),7.7,6.3,9.1
+35061753,Language,7002,  French only,0,0,0
+35061753,Language,8006,Official language minority (percentage),8.1,8.5,7.7
+35061754,Language,7002,  French only,0,0,0
+35061754,Language,8006,Official language minority (percentage),7.8,8.1,8.8
+35061755,Language,7002,  French only,0,0,0
+35061755,Language,8006,Official language minority (percentage),8.7,7.8,9.5
+35061756,Language,7002,  French only,0.7,0.7,0.7
+35061756,Language,8006,Official language minority (percentage),9.7,8.5,10.1
+35061760,Language,7002,  French only,0,0,0
+35061760,Language,8006,Official language minority (percentage),10.2,8.3,10.9
+35061761,Language,7002,  French only,0,0,0
+35061761,Language,8006,Official language minority (percentage),8.5,9.8,9.8
+35061762,Language,7002,  French only,0.7,1.3,0
+35061762,Language,8006,Official language minority (percentage),10.8,11.7,11.3
+35061763,Language,7002,  French only,0,0,0
+35061763,Language,8006,Official language minority (percentage),7.6,5.4,8.2
+35061764,Language,7002,  French only,1,0,0
+35061764,Language,8006,Official language minority (percentage),7.1,5.9,8.3
+35061765,Language,7002,  French only,0,0,0
+35061765,Language,8006,Official language minority (percentage),11.6,14.6,8.3
+35061766,Language,7002,  French only,1.5,1.6,1.3
+35061766,Language,8006,Official language minority (percentage),7.3,8.2,6.6
+35061767,Language,7002,  French only,0,0,0
+35061767,Language,8006,Official language minority (percentage),9.5,7.7,11.3
+35061768,Language,7002,  French only,5.9,6.3,5.7
+35061768,Language,8006,Official language minority (percentage),19.8,21.3,20.4
+35061769,Language,7002,  French only,1.4,0,0
+35061769,Language,8006,Official language minority (percentage),11.3,10.5,9.1
+35061770,Language,7002,  French only,1.6,1.6,1.7
+35061770,Language,8006,Official language minority (percentage),8.2,7.8,6.8
+35061771,Language,7002,  French only,0,0,0
+35061771,Language,8006,Official language minority (percentage),8.4,9.3,7.1
+35061772,Language,7002,  French only,0,0,0
+35061772,Language,8006,Official language minority (percentage),9.8,9.8,9.5
+35061773,Language,7002,  French only,2.2,4.3,0
+35061773,Language,8006,Official language minority (percentage),18.5,21.3,15.6
+35061774,Language,7002,  French only,0.7,0,1.5
+35061774,Language,8006,Official language minority (percentage),11.6,12.3,10.8
+35061778,Language,7002,  French only,0,0,2.8
+35061778,Language,8006,Official language minority (percentage),21,18.2,24.3
+35061779,Language,7002,  French only,1.1,2,2.2
+35061779,Language,8006,Official language minority (percentage),20.8,20.4,21.7
+35061780,Language,7002,  French only,2.4,3.3,3.2
+35061780,Language,8006,Official language minority (percentage),27.6,26.2,27
+35061781,Language,7002,  French only,2.2,2.4,4
+35061781,Language,8006,Official language minority (percentage),25,22,25.5
+35061782,Language,7002,  French only,2.9,2.9,0
+35061782,Language,8006,Official language minority (percentage),27.1,28.6,25.7
+35061783,Language,7002,  French only,0,0,0
+35061783,Language,8006,Official language minority (percentage),28.8,30.3,30.3
+35061784,Language,7002,  French only,0,0,2
+35061784,Language,8006,Official language minority (percentage),21.4,18.9,26
+35061785,Language,7002,  French only,2.6,3,2.3
+35061785,Language,8006,Official language minority (percentage),28.1,23.1,31
+35061786,Language,7002,  French only,1.6,1.7,1.5
+35061786,Language,8006,Official language minority (percentage),27.2,22.4,28.4
+35061787,Language,7002,  French only,0.8,1.6,1.5
+35061787,Language,8006,Official language minority (percentage),20,21.3,18.8
+35061788,Language,7002,  French only,1.1,0,0
+35061788,Language,8006,Official language minority (percentage),17.4,15.6,17.1
+35061789,Language,7002,  French only,0,0,0
+35061789,Language,8006,Official language minority (percentage),18.8,15.7,20
+35061790,Language,7002,  French only,1.6,1.4,1.9
+35061790,Language,8006,Official language minority (percentage),20.3,20,20.4
+35061791,Language,7002,  French only,0.8,0,1.8
+35061791,Language,8006,Official language minority (percentage),13.1,12.5,12.3
+35061792,Language,7002,  French only,0,0,0
+35061792,Language,8006,Official language minority (percentage),20,20,20
+35061793,Language,7002,  French only,0.8,0.8,0.9
+35061793,Language,8006,Official language minority (percentage),16.6,15.2,17.2
+35061794,Language,7002,  French only,7.6,6.5,5.9
+35061794,Language,8006,Official language minority (percentage),36.4,38.7,37.1
+35061795,Language,7002,  French only,5.5,4.2,6.8
+35061795,Language,8006,Official language minority (percentage),23.3,17.8,28.4
+35061796,Language,7002,  French only,4.1,2.6,5.7
+35061796,Language,8006,Official language minority (percentage),34,32.9,35.7
+35061797,Language,7002,  French only,10.5,4.3,13.6
+35061797,Language,8006,Official language minority (percentage),35.2,28.3,41.4
+35061798,Language,7002,  French only,3.7,1.9,3.5
+35061798,Language,8006,Official language minority (percentage),25.7,21.2,28.1
+35061799,Language,7002,  French only,1.1,0,2.1
+35061799,Language,8006,Official language minority (percentage),26.1,23.8,25.5
+35061800,Language,7002,  French only,1.1,2.1,0
+35061800,Language,8006,Official language minority (percentage),20.7,20.8,20.9
+35061801,Language,7002,  French only,3.9,4.3,4.9
+35061801,Language,8006,Official language minority (percentage),30.2,27.9,32.8
+35061802,Language,7002,  French only,10.4,7.3,13.3
+35061802,Language,8006,Official language minority (percentage),54.8,50.9,58.3
+35061803,Language,7002,  French only,2.6,2.9,2.4
+35061803,Language,8006,Official language minority (percentage),34,32.4,34.1
+35061804,Language,7002,  French only,0,0,0
+35061804,Language,8006,Official language minority (percentage),6.8,7.8,7.5
+35061806,Language,7002,  French only,0,0,0
+35061806,Language,8006,Official language minority (percentage),7.2,8.9,6.8
+35061807,Language,7002,  French only,1.1,0.7,0.7
+35061807,Language,8006,Official language minority (percentage),9.6,10.8,9.2
+35061808,Language,7002,  French only,0.5,0,0.9
+35061808,Language,8006,Official language minority (percentage),8.5,8.4,8.5
+35061809,Language,7002,  French only,0.8,0,1.5
+35061809,Language,8006,Official language minority (percentage),9.1,6.2,11.8
+35061810,Language,7002,  French only,0,0,0
+35061810,Language,8006,Official language minority (percentage),8.1,6.3,9.6
+35061811,Language,7002,  French only,0.4,0.8,0.7
+35061811,Language,8006,Official language minority (percentage),8.1,6.8,9.4
+35061812,Language,7002,  French only,0.5,0,0
+35061812,Language,8006,Official language minority (percentage),15.2,12.9,16.5
+35061813,Language,7002,  French only,1,1,1.5
+35061813,Language,8006,Official language minority (percentage),9.6,8.9,9.8
+35061815,Language,7002,  French only,1.5,1,2
+35061815,Language,8006,Official language minority (percentage),10.8,7.9,12.7
+35061816,Language,7002,  French only,0.8,0,0
+35061816,Language,8006,Official language minority (percentage),9.4,9.4,9.4
+35061817,Language,7002,  French only,0.6,1.1,0
+35061817,Language,8006,Official language minority (percentage),10.5,9.1,12
+35061818,Language,7002,  French only,1.1,1.1,1.2
+35061818,Language,8006,Official language minority (percentage),11.4,10,12.8
+35061820,Language,7002,  French only,0,0,0
+35061820,Language,8006,Official language minority (percentage),12.2,12.2,10.4
+35061821,Language,7002,  French only,0,0,0
+35061821,Language,8006,Official language minority (percentage),7.4,6.8,10
+35061822,Language,7002,  French only,0,0,0
+35061822,Language,8006,Official language minority (percentage),9.8,9.3,10.5
+35061823,Language,7002,  French only,0,0,0
+35061823,Language,8006,Official language minority (percentage),10.8,12.5,11.8
+35061824,Language,7002,  French only,0.7,0,1.5
+35061824,Language,8006,Official language minority (percentage),12.3,8.7,14.7
+35061826,Language,7002,  French only,1,1.9,0
+35061826,Language,8006,Official language minority (percentage),13.5,13.5,11.3
+35061827,Language,7002,  French only,8.3,6.1,10
+35061827,Language,8006,Official language minority (percentage),26.5,21.2,31.4
+35061828,Language,7002,  French only,1.8,2,1.6
+35061828,Language,8006,Official language minority (percentage),20.4,19.2,21.3
+35061829,Language,7002,  French only,1.1,2.4,0
+35061829,Language,8006,Official language minority (percentage),18.4,19,20
+35061831,Language,7002,  French only,0,0,0
+35061831,Language,8006,Official language minority (percentage),5.6,1.6,7.7
+35061832,Language,7002,  French only,0,1.5,0
+35061832,Language,8006,Official language minority (percentage),7.3,7.4,7.1
+35061833,Language,7002,  French only,0,0,0
+35061833,Language,8006,Official language minority (percentage),6.5,6.5,6.3
+35061834,Language,7002,  French only,0.7,0,0
+35061834,Language,8006,Official language minority (percentage),10.8,9.7,13.2
+35061835,Language,7002,  French only,0,0,0
+35061835,Language,8006,Official language minority (percentage),9.6,8.3,9.4
+35061837,Language,7002,  French only,0,0,1.5
+35061837,Language,8006,Official language minority (percentage),13.8,12.3,15.2
+35061838,Language,7002,  French only,0,0,0
+35061838,Language,8006,Official language minority (percentage),9.3,10.4,10.2
+35061839,Language,7002,  French only,0,0,0
+35061839,Language,8006,Official language minority (percentage),12.3,10.7,12
+35061840,Language,7002,  French only,1.2,2.4,0
+35061840,Language,8006,Official language minority (percentage),11,7.1,12.2
+35061841,Language,7002,  French only,0.7,0.6,0.8
+35061841,Language,8006,Official language minority (percentage),8.7,8.7,8.9
+35061842,Language,7002,  French only,0.8,0,1.6
+35061842,Language,8006,Official language minority (percentage),12.1,13.1,12.7
+35061843,Language,7002,  French only,2.8,2.5,3.2
+35061843,Language,8006,Official language minority (percentage),33.5,32.2,35.5
+35061844,Language,7002,  French only,3.5,4.2,4.3
+35061844,Language,8006,Official language minority (percentage),40.4,38.6,42.3
+35061845,Language,7002,  French only,4.7,3.2,4.5
+35061845,Language,8006,Official language minority (percentage),38.5,38.1,40.3
+35061846,Language,7002,  French only,3.8,2.5,5.1
+35061846,Language,8006,Official language minority (percentage),36.9,35,38.5
+35061847,Language,7002,  French only,2.7,1.9,3.5
+35061847,Language,8006,Official language minority (percentage),35.1,34,37.9
+35061848,Language,7002,  French only,2,1.4,2.6
+35061848,Language,8006,Official language minority (percentage),33.3,31.5,35.5
+35061849,Language,7002,  French only,1.2,2.4,0
+35061849,Language,8006,Official language minority (percentage),36.1,38.1,38.1
+35061851,Language,7002,  French only,0,0,0
+35061851,Language,8006,Official language minority (percentage),8.9,8.1,9.8
+35061852,Language,7002,  French only,0,0,1.5
+35061852,Language,8006,Official language minority (percentage),8.8,8.5,9.2
+35061853,Language,7002,  French only,0,0,2.3
+35061853,Language,8006,Official language minority (percentage),6.7,6.5,4.7
+35061854,Language,7002,  French only,0,0,0
+35061854,Language,8006,Official language minority (percentage),9.4,7.9,9.9
+35061855,Language,7002,  French only,0,0,0
+35061855,Language,8006,Official language minority (percentage),6.8,7.1,6.3
+35061856,Language,7002,  French only,0,0,0
+35061856,Language,8006,Official language minority (percentage),8.1,6.2,10
+35061857,Language,7002,  French only,0.4,0,0
+35061857,Language,8006,Official language minority (percentage),8.5,7.7,9.2
+35061858,Language,7002,  French only,0,0,0
+35061858,Language,8006,Official language minority (percentage),5.6,5.7,5.5
+35061859,Language,7002,  French only,0.5,0.3,0.6
+35061859,Language,8006,Official language minority (percentage),7.7,7.1,8.2
+35061860,Language,7002,  French only,0,0,0
+35061860,Language,8006,Official language minority (percentage),3.4,3.3,3.4
+35061862,Language,7002,  French only,0.3,0,0.6
+35061862,Language,8006,Official language minority (percentage),9.8,9.5,9.5
+35061863,Language,7002,  French only,0.6,1.4,0
+35061863,Language,8006,Official language minority (percentage),12.1,11,13
+35061864,Language,7002,  French only,0,0,0
+35061864,Language,8006,Official language minority (percentage),11.6,9.8,13.3
+35061865,Language,7002,  French only,1.2,0,2
+35061865,Language,8006,Official language minority (percentage),12.8,10.5,14.3
+35061866,Language,7002,  French only,0,0,0
+35061866,Language,8006,Official language minority (percentage),14.6,12.8,16
+35061867,Language,7002,  French only,0,0,0
+35061867,Language,8006,Official language minority (percentage),12,16.7,7.7
+35061868,Language,7002,  French only,0,4,0
+35061868,Language,8006,Official language minority (percentage),13,12.5,13.8
+35061869,Language,7002,  French only,0,0,0
+35061869,Language,8006,Official language minority (percentage),8.5,10.2,7
+35061870,Language,7002,  French only,0.8,0,0
+35061870,Language,8006,Official language minority (percentage),9.3,7,9.8
+35061871,Language,7002,  French only,0.9,1.8,0
+35061871,Language,8006,Official language minority (percentage),7,9.1,5.1
+35061872,Language,7002,  French only,0,0,0
+35061872,Language,8006,Official language minority (percentage),10.2,8.1,12.1
+35061873,Language,7002,  French only,0.9,0,0
+35061873,Language,8006,Official language minority (percentage),10.8,8.9,12.7
+35061874,Language,7002,  French only,0,0,0
+35061874,Language,8006,Official language minority (percentage),15.9,15.2,17.1
+35061875,Language,7002,  French only,NA,NA,NA
+35061875,Language,8006,Official language minority (percentage),NA,NA,NA
+35061877,Language,7002,  French only,3.2,2.6,4.9
+35061877,Language,8006,Official language minority (percentage),38.2,37.3,37.8
+35061878,Language,7002,  French only,3.9,3.4,5.8
+35061878,Language,8006,Official language minority (percentage),36.2,36.2,37.7
+35061880,Language,7002,  French only,4,3.8,3.4
+35061880,Language,8006,Official language minority (percentage),31.7,30.8,32.5
+35061881,Language,7002,  French only,4.7,3.9,6.4
+35061881,Language,8006,Official language minority (percentage),36.5,33.8,38.3
+35061882,Language,7002,  French only,3.2,1.5,3.3
+35061882,Language,8006,Official language minority (percentage),30.2,30.8,32.3
+35061883,Language,7002,  French only,3.6,1.9,5.2
+35061883,Language,8006,Official language minority (percentage),35.1,35.8,36.2
+35061884,Language,7002,  French only,4.7,3,4.9
+35061884,Language,8006,Official language minority (percentage),37.8,37.9,38.3
+35061885,Language,7002,  French only,4.2,4.4,5.3
+35061885,Language,8006,Official language minority (percentage),36.6,38.8,34.7
+35061886,Language,7002,  French only,1.9,1,2.7
+35061886,Language,8006,Official language minority (percentage),38,39.8,37.3
+35061887,Language,7002,  French only,3.9,2.5,4
+35061887,Language,8006,Official language minority (percentage),34.4,34.2,34.7
+35061888,Language,7002,  French only,3.5,4.5,2.6
+35061888,Language,8006,Official language minority (percentage),39.4,37.9,42.7
+35061889,Language,7002,  French only,3.6,4,3.3
+35061889,Language,8006,Official language minority (percentage),36.1,35.1,38.5
+35061890,Language,7002,  French only,4.1,3.4,4.8
+35061890,Language,8006,Official language minority (percentage),45,45.8,41.9
+35061891,Language,7002,  French only,3.2,2.5,3.8
+35061891,Language,8006,Official language minority (percentage),39.9,40.5,41
+35061892,Language,7002,  French only,5.2,5.6,5.9
+35061892,Language,8006,Official language minority (percentage),43.2,39.3,47.1
+35061893,Language,7002,  French only,4.5,4.7,3.7
+35061893,Language,8006,Official language minority (percentage),39.2,38.8,39.6
+35061894,Language,7002,  French only,0,0,0
+35061894,Language,8006,Official language minority (percentage),10.9,12.1,10
+35061895,Language,7002,  French only,4.9,4.1,5.2
+35061895,Language,8006,Official language minority (percentage),40.2,37.6,42.5
+35061896,Language,7002,  French only,5.4,5.5,5.3
+35061896,Language,8006,Official language minority (percentage),37.7,36,39.5
+35061897,Language,7002,  French only,4,5.7,4.3
+35061897,Language,8006,Official language minority (percentage),32,34,34
+35061898,Language,7002,  French only,5.8,4.5,7
+35061898,Language,8006,Official language minority (percentage),34.1,30.3,36.1
+35061899,Language,7002,  French only,5.1,4.1,5.1
+35061899,Language,8006,Official language minority (percentage),32.9,32.7,33.3
+35061900,Language,7002,  French only,1.1,4.5,0
+35061900,Language,8006,Official language minority (percentage),23.3,20.5,23.4
+35061901,Language,7002,  French only,1.7,1.9,3
+35061901,Language,8006,Official language minority (percentage),32.8,28.8,37.3

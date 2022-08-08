@@ -274,9 +274,11 @@ list(
     {
     make_publication_figures(ons_table_auto_rurality, ons_table_walk_rurality, ons_shp, rural_outlines)
 
-      make_bivariate_choropleth(ons_table_auto_rurality, ons_shp, ons_data)
+   #   make_bivariate_choropleth(ons_table_auto_rurality, ons_shp, ons_data)
 
       make_scatterplot_drivetime_pctFRonly(ons_table_auto_rurality, ons_data)
+
+      make_ggplot_maps(ons_shp)
     }
   ),
 

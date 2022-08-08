@@ -8,6 +8,9 @@
 # as a high-res png
 save_plot <- function(data_table, fill_column, fill_label, filename, rural_outlines, output_folder){
 
+  # if we're only plotting urban data, only show urban neighbourhood outlines
+  if (! "Rural" %in% data_table$rurality) rural_outlines <- dplyr::filter(rural_outlines, rurality == "Urban")
+
   # not doing any diffs right now
   if (stringr::str_detect(fill_column, "diff")) return()
 
@@ -61,7 +64,8 @@ save_plot <- function(data_table, fill_column, fill_label, filename, rural_outli
     theme_minimal() +
     # scale_fill_viridis_c(breaks = plot_breaks, labels = plot_labs)  +
     theme(legend.position = "bottom")+
-    scale_fill_viridis_c(limits = c(minval, maxval))
+    scale_fill_viridis_c(limits = c(minval, maxval)) +
+    ggspatial::annotation_scale(aes(location = "br"))
 
   # we are adding rural outlines to all plots now
   plot <- plot +
@@ -79,6 +83,24 @@ save_plot <- function(data_table, fill_column, fill_label, filename, rural_outli
 }
 #
 
+make_ggplot_maps <- function(ons_shp){
+
+  # where we will put the images
+  output_folder <- "outputs/pub_figures/"
+
+  ottawa_map <- ons_shp %>%
+    ggplot2::ggplot() +
+    ggspatial::annotation_map_tile(zoomin = -1) +
+    ggspatial::annotation_north_arrow(location = "br", style = ggspatial::north_arrow_minimal()) +
+    ggplot2::geom_sf(fill = NA, size = 1, colour = "black") +
+    ggplot2::theme_minimal() +
+    ggspatial::annotation_scale()
+
+  ggplot2::ggsave  (ottawa_map, filename = paste0(output_folder, "ottawa_map.png"), dpi = 500, width = 8, height = 4)
+
+}
+
+
 make_publication_figures <- function(ons_table_auto_rurality, ons_table_walk_rurality, ons_shp, rural_outlines){
 
   # where we will put the images
@@ -86,7 +108,8 @@ make_publication_figures <- function(ons_table_auto_rurality, ons_table_walk_rur
 
   # make auto and walking shapefiles out of the tables
   ons_auto <- left_join(ons_shp, ons_table_auto_rurality)
-  ons_walk <- left_join(ons_shp, ons_table_walk_rurality)
+  ons_walk <- left_join(ons_shp, ons_table_walk_rurality) %>%
+    filter(rurality == "Urban")
 
   # get the outlines for our figures (this is ab it messy)
   #rural_outlines <- sf::read_sf("data/shapefiles/ruralities.shp") #sf::read_sf("data/urban_suburban.shp")
@@ -136,7 +159,7 @@ make_publication_figures <- function(ons_table_auto_rurality, ons_table_walk_rur
     # make composite image
     cowplot::plot_grid(all_plots[[index]] + theme(plot.subtitle=element_text(size=8)),
                        all_plots[[index+1]] + theme(plot.subtitle=element_text(size=8))) %>%
-      ggsave(filename = paste0(output_folder, filename), dpi = 500, width = 8, height = 4)
+      ggsave(filename = paste0(output_folder, filename), dpi = 500, width = 8.5, height = 4)
 
   }
 
